@@ -22,7 +22,7 @@
 - 願意打破傳統的心（對，我就是在說你）
 
 成團條件
-- 10人成團，你的名字將會刻在PCB上。
+- 10人成團，你的名字將會刻在PCB上。依照開頭字母排序的贊助者名單：Andy, Haway.
 - 超過20人，解鎖定位板套件與大家一起動手做工作坊。 
 - 超過30人的話，解鎖特製鍵帽套件。
 
@@ -57,6 +57,7 @@
 - Xah lee [Why function keys are useful!](http://xahlee.info/kbd/keyboard_function_keys.html)
 - Quasimode https://en.wikipedia.org/wiki/Mode_(user_interface)
 - Mode slips and low discoverability https://www.nngroup.com/articles/modes/
+
 
 # Log
 2021-11-05 [鍵人谷 kick off](https://www.facebook.com/groups/1111882339005914/posts/1790356644491810/) 
