@@ -1,7 +1,7 @@
 # Pragmatic Kit v1
 **Pragmatic務實**鍵盤是一把72鍵的分離式鍵盤，有數字列，讓你可以打注音；有方向鍵與功能列，操作方便；支援QMK，讓你可以輕鬆調整鍵盤配置，是一把最適合入門的分離式鍵盤。
 
-![Proof-of-concept prototype](attachment/Proof-of-concept prototype.jpeg)
+![Proof-of-concept prototype](attachment/poc.jpeg)
 
 手拉驗證版。
 
