@@ -1050,23 +1050,23 @@ Text GLabel 5570 2790 0    50   Input ~ 0
 Row3
 Text GLabel 6070 2590 2    50   Input ~ 0
 Ground
-Text GLabel 6070 2790 2    50   Input ~ 0
+Text GLabel 5570 2990 0    50   Input ~ 0
 Col1
-Text GLabel 6070 2890 2    50   Input ~ 0
+Text GLabel 6070 2990 2    50   Input ~ 0
 Col2
-Text GLabel 5570 3190 0    50   Input ~ 0
-Col6
 Text GLabel 6070 3190 2    50   Input ~ 0
+Col6
+Text GLabel 5570 3190 0    50   Input ~ 0
 Col5
 Text GLabel 6070 3090 2    50   Input ~ 0
 Col4
-Text GLabel 6070 2990 2    50   Input ~ 0
-Col3
 Text GLabel 5570 3090 0    50   Input ~ 0
+Col3
+Text GLabel 6070 2790 2    50   Input ~ 0
 Row4
-Text GLabel 5570 2990 0    50   Input ~ 0
-Row5
 Text GLabel 5570 2890 0    50   Input ~ 0
+Row5
+Text GLabel 6070 2890 2    50   Input ~ 0
 Row6
 $Comp
 L Switch:SW_Push SW8
