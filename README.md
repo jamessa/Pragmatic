@@ -5,7 +5,9 @@
 
 手拉驗證版。
 
-原則：務實、小功能發佈
+## 原則
+
+務實、小功能發佈
 
 本套件的開發將會採用[敏捷流程](http://theleanstartup.com)，每次都發佈最小可行硬體套件，然後讓大家一起討論，看看如何讓這個鍵盤變得更好用。換言之這將是一把大家一起設計的鍵盤，而設計的原則就是「務實」，只加入使用的功能，降低開發的時間與成本；使用最少的硬體，發揮到最好的效果。
 
@@ -23,7 +25,17 @@
 - 鍵帽（如果達標就可以來圖購）
 - 願意打破傳統的心（對，我就是在說你）
 
-成團條件
+## 功能
+
+本鍵盤套件功能
+
+- 櫻桃三腳軸、五腳軸
+- 凱華矮軸
+- 防鬼鍵二極體電路
+- 容易焊接，初學者可
+
+## 成團條件
+
 - (達成)10人成團，你的名字將會刻在PCB上。
 - 超過20人，解鎖定位板套件與大家一起動手做工作坊。 
 - 超過30人的話，解鎖特製鍵帽套件。
@@ -49,8 +61,8 @@
 
 
 ## 風險
-- 我如果需要加班，那就沒有多出來的時間改韌體與畫電路板。但是我可以找強者我朋友來幫忙。
-- Pro Micro開發板的品質問題。市面上的Pro Micro開發板良莠不齊，會先從兩家進貨比較，如果可以再買齊需要的量。
+- 第一版完成66%了。~~我如果需要加班，那就沒有多出來的時間改韌體與畫電路板。但是我可以找強者我朋友來幫忙。~~
+- Pro Micro開發板的品質問題。市面上的Pro Micro開發板良莠不齊，會先從兩家進貨比較，如果可以再買齊需要的量。這問題比想像中更嚴重。
 
 ## Inspired by
 
@@ -60,12 +72,12 @@
 - Nyquist/Levison [Keyboard](https://keeb.io/products/nyquist-keyboard)
 - Xah lee [Why function keys are useful!](http://xahlee.info/kbd/keyboard_function_keys.html)
 - Quasimode https://en.wikipedia.org/wiki/Mode_(user_interface)
-- Mode slips and low discoverability https://www.nngroup.com/articles/modes/
+- Mode slips and low discoverability. https://www.nngroup.com/articles/modes/
 
 
 # Log
 
-2021-11-06 開始設計電路板
+2021-11-06 開始設計電路板，完成左手。
 
 2021-11-05 [鍵人谷 kick off](https://www.facebook.com/groups/1111882339005914/posts/1790356644491810/) 
 
