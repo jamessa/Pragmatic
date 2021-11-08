@@ -230,22 +230,22 @@ $EndComp
 Wire Wire Line
 	8400 4300 8800 4300
 $Comp
-L Connector:Conn_01x04_Female J3
-U 1 1 618A512B
-P 5670 5040
-F 0 "J3" H 5740 5040 50  0000 L CNN
-F 1 "I2C connector" H 5740 4940 50  0000 L CNN
-F 2 "Foostan:OLED_1side" H 5670 5040 50  0001 C CNN
-F 3 "~" H 5670 5040 50  0001 C CNN
-	1    5670 5040
+L Connector_Generic:Conn_01x04 J3
+U 1 1 6189149E
+P 5800 4950
+F 0 "J3" H 5880 4942 50  0000 L CNN
+F 1 "Conn_01x04" H 5880 4851 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 5800 4950 50  0001 C CNN
+F 3 "~" H 5800 4950 50  0001 C CNN
+	1    5800 4950
 	1    0    0    -1  
 $EndComp
-Text GLabel 5470 5040 0    50   Input ~ 0
+Text GLabel 5600 5050 0    50   Input ~ 0
 VCC
-Text GLabel 5470 5140 0    50   Input ~ 0
-Row2
-Text GLabel 5470 5240 0    50   Input ~ 0
-Row1
-Text GLabel 5470 4940 0    50   Input ~ 0
+Text GLabel 5600 5150 0    50   Input ~ 0
 Ground
+Text GLabel 5600 4950 0    50   Input ~ 0
+Row2
+Text GLabel 5600 4850 0    50   Input ~ 0
+Row1
 $EndSCHEMATC
