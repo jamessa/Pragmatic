@@ -20,7 +20,7 @@
 最後這個鍵盤當然是完全開源的，而且會全程使用開源軟體來設計，讓大家可以隨意的修改使用。但是要實踐一把務實鍵盤不是下載一個檔案那麼的簡單，需要以下的材料：
 
 - 務實鍵盤電路板套，600元
-- Pro Micro 開發板一片（會開團購）
+- Elite C 開發板一片（會開團購）
 - 72顆你喜歡的軸（會開圖購）
 - 鍵帽（如果達標就可以來圖購）
 - 願意打破傳統的心（對，我就是在說你）
@@ -29,18 +29,18 @@
 
 本鍵盤套件功能
 
-- 櫻桃三腳軸、五腳軸
-- 凱華矮軸
+- 支援櫻桃三腳軸、五腳軸與凱華矮軸
 - 防鬼鍵二極體電路
 - 容易焊接，初學者可
+- 使用Elite C。
 
 ## 成團條件
 
 - (達成)10人成團，你的名字將會刻在PCB上。
-- 超過20人，解鎖定位板套件與大家一起動手做工作坊。 
+- (快要達標了)超過20人，解鎖定位板套件與大家一起動手做工作坊。 
 - 超過30人的話，解鎖特製鍵帽套件。
 
-加入[Telegram群組](https://t.me/joinchat/qp7NLK_H0vY2MjA1)即可入團，拜託大家一起來解鎖。
+加入[Telegram群組](https://t.me/joinchat/qp7NLK_H0vY2MjA1)即可入團
 
 ## FAQ
 
@@ -59,25 +59,13 @@
 7. 可以不要F列嗎？
    評估中。
 
-
-## 風險
-- 第一版完成66%了。~~我如果需要加班，那就沒有多出來的時間改韌體與畫電路板。但是我可以找強者我朋友來幫忙。~~
-- Pro Micro開發板的品質問題。市面上的Pro Micro開發板良莠不齊，會先從兩家進貨比較，如果可以再買齊需要的量。這問題比想像中更嚴重。
-
 ## Inspired by
 
-- [[34 key layout#Seniply https stevep99 github io seniply by Stevenp99]] 
+- [34 key layout](Seniply https stevep99 github io seniply by Stevenp99)
 - [Let's split](https://github.com/nicinabox/lets-split-guide)
 - [GH36](https://geekhack.org/index.php?topic=61306.0)
 - Nyquist/Levison [Keyboard](https://keeb.io/products/nyquist-keyboard)
 - Xah lee [Why function keys are useful!](http://xahlee.info/kbd/keyboard_function_keys.html)
 - Quasimode https://en.wikipedia.org/wiki/Mode_(user_interface)
 - Mode slips and low discoverability. https://www.nngroup.com/articles/modes/
-
-
-# Log
-
-2021-11-06 開始設計電路板，完成左手。
-
-2021-11-05 [鍵人谷 kick off](https://www.facebook.com/groups/1111882339005914/posts/1790356644491810/) 
 
