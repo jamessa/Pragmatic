@@ -1,4 +1,4 @@
-# Pragmatic Kit v1
+# Pragmatic Kit
 **Pragmatic務實**鍵盤是一把72鍵的分離式鍵盤，有數字列，讓你可以打注音；有方向鍵與功能列，操作方便；支援QMK，讓你可以輕鬆調整鍵盤配置，是一把最適合入門的分離式鍵盤。
 
 ![Proof-of-concept prototype](attachment/poc.jpeg)
@@ -51,21 +51,24 @@
 3. 在咖啡廳使用會被搭訕嗎？
    我不知道為什麼你要這麼問。但是我們也做了一個抽樣調查，正妹受訪者表示會想要瞭解這個新奇的鍵盤，而不是使用者別擔心。
 4. 我可以改鍵盤配置嗎？
-   問對問題了，本鍵盤將會支援支援[QMK](https://qmk.fm)，讓你為所欲為。
+   本鍵盤將會支援支援[QMK](https://qmk.fm)，讓你為所欲為。
 5. 我完全沒有電子經驗可以自己做鍵盤嗎？
    這次的套件就是要大幅減少焊接的數量，最適合初學者了。 
 6. 有支援矮軸的可能嗎？
    支援。
 7. 可以不要F列嗎？
    評估中。
+8. 有熱插拔嗎？
+   沒。
 
 ## Inspired by
 
 - [34 key layout](Seniply https stevep99 github io seniply by Stevenp99)
 - [Let's split](https://github.com/nicinabox/lets-split-guide)
 - [GH36](https://geekhack.org/index.php?topic=61306.0)
-- Nyquist/Levison [Keyboard](https://keeb.io/products/nyquist-keyboard)
+- [Nyquist/Levison Keyboard](https://keeb.io/products/nyquist-keyboard)
 - Xah lee [Why function keys are useful!](http://xahlee.info/kbd/keyboard_function_keys.html)
 - Quasimode https://en.wikipedia.org/wiki/Mode_(user_interface)
 - Mode slips and low discoverability. https://www.nngroup.com/articles/modes/
 
+[Facebook disussion](https://www.facebook.com/groups/1111882339005914/posts/1790356644491810)
