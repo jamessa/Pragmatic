@@ -1116,37 +1116,33 @@ $EndComp
 Wire Wire Line
 	10550 4050 10150 4050
 Connection ~ 10150 4050
-Text GLabel 5750 2550 0    50   Input ~ 0
-VCC
 Text GLabel 6250 2550 2    50   Input ~ 0
+VCC
+Text GLabel 5750 2550 0    50   Input ~ 0
 GND
 Text GLabel 6250 2650 2    50   Input ~ 0
 SDA
 Text GLabel 5750 2650 0    50   Input ~ 0
 SCL
-Text GLabel 5750 2750 0    50   Input ~ 0
-Row1
-Text GLabel 5750 2850 0    50   Input ~ 0
-Row2
-Text GLabel 5750 2950 0    50   Input ~ 0
-Row3
-Text GLabel 5750 3050 0    50   Input ~ 0
-Row4
-Text GLabel 5750 3150 0    50   Input ~ 0
-Row5
-Text GLabel 5750 3250 0    50   Input ~ 0
-Row6
 Text GLabel 6250 2750 2    50   Input ~ 0
-Col1
+Row1
 Text GLabel 6250 2850 2    50   Input ~ 0
-Col2
+Row2
 Text GLabel 6250 2950 2    50   Input ~ 0
-Col3
+Row3
 Text GLabel 6250 3050 2    50   Input ~ 0
-Col4
+Row4
 Text GLabel 6250 3150 2    50   Input ~ 0
-Col5
+Row5
 Text GLabel 6250 3250 2    50   Input ~ 0
+Row6
+Text GLabel 5750 2850 0    50   Input ~ 0
+Col2
+Text GLabel 5750 2950 0    50   Input ~ 0
+Col3
+Text GLabel 5750 3050 0    50   Input ~ 0
+Col4
+Text GLabel 5750 3250 0    50   Input ~ 0
 Col6
 Text GLabel 7700 3050 2    50   Input ~ 0
 GND
@@ -1156,18 +1152,6 @@ Text GLabel 7700 3350 2    50   Input ~ 0
 SDA
 Text GLabel 7700 3150 2    50   Input ~ 0
 VCC
-$Comp
-L Connector_Generic:Conn_02x08_Odd_Even J1
-U 1 1 6194905D
-P 5950 2850
-F 0 "J1" H 6000 3367 50  0000 C CNN
-F 1 "Conn_02x08_Odd_Even" H 6000 3276 50  0000 C CNN
-F 2 "Pragmatic:IDC-Header_2x08_P2.54mm_Vertical_Mirrored" H 5950 2850 50  0001 C CNN
-F 3 "~" H 5950 2850 50  0001 C CNN
-F 4 "C3406" H 5950 2850 50  0001 C CNN "LCSC"
-	1    5950 2850
-	1    0    0    -1  
-$EndComp
 $Comp
 L Connector_Generic:Conn_01x04 J2
 U 1 1 6195FBC7
@@ -1272,4 +1256,20 @@ F 3 "~" H 6850 4700 50  0001 C CNN
 	1    6850 4700
 	1    0    0    -1  
 $EndComp
+$Comp
+L Connector_Generic:Conn_02x08_Odd_Even J1
+U 1 1 6194905D
+P 5950 2850
+F 0 "J1" H 6000 3367 50  0000 C CNN
+F 1 "Conn_02x08_Odd_Even" H 6000 3276 50  0000 C CNN
+F 2 "Pragmatic:IDC-Header_2x08_P2.54mm_Vertical_Mirrored" H 5950 2850 50  0001 C CNN
+F 3 "~" H 5950 2850 50  0001 C CNN
+F 4 "C3406" H 5950 2850 50  0001 C CNN "LCSC"
+	1    5950 2850
+	1    0    0    -1  
+$EndComp
+Text GLabel 5750 2750 0    50   Input ~ 0
+Col1
+Text GLabel 5750 3150 0    50   Input ~ 0
+Col5
 $EndSCHEMATC
