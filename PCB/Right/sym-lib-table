@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name Biacco42)(type Legacy)(uri /Users/james/Projects/Keyboard/KiCad_Lib/ProMicroKiCad/promicro_library/promicro.lib)(options "")(descr ""))
-  (lib (name Pragmatic-rescue)(type Legacy)(uri ${KIPRJMOD}/Pragmatic-rescue.lib)(options "")(descr ""))
-)
