@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 17)
+    (drawings 19)
     (tracks 164)
     (zones 0)
     (modules 6)
@@ -236,7 +236,7 @@
     (fp_text reference J2 (at 1.27 -6.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value R (at 1.27 24.13) (layer F.SilkS)
+    (fp_text value "2X8P IDC Connector Header Pitch 2.54mm" (at 1.27 24.13) (layer Cmts.User) hide
       (effects (font (size 1.27 1.27) (thickness 0.2032)))
     )
     (fp_line (start 6.22 -5.6) (end -3.68 -5.6) (layer F.CrtYd) (width 0.05))
@@ -321,7 +321,7 @@
     (fp_text reference J1 (at 1.27 -6.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value L (at 1.27 24.13) (layer F.SilkS)
+    (fp_text value "2X8P IDC Connector Header Pitch 2.54mm" (at 1.27 24.13) (layer Cmts.User) hide
       (effects (font (size 1.27 1.27) (thickness 0.2032)))
     )
     (fp_line (start 6.22 -5.6) (end -3.68 -5.6) (layer F.CrtYd) (width 0.05))
@@ -730,6 +730,12 @@
     )
   )
 
+  (gr_text R (at 155.575 78.74) (layer F.SilkS) (tstamp 619863F2)
+    (effects (font (size 1.016 1.016) (thickness 0.2032)))
+  )
+  (gr_text L (at 123.825 78.74) (layer F.SilkS)
+    (effects (font (size 1.016 1.016) (thickness 0.2032)))
+  )
   (gr_text "F1 F0" (at 155.575 76.9874) (layer F.SilkS) (tstamp 61992A78)
     (effects (font (size 1.016 1.016) (thickness 0.1524)))
   )
@@ -829,14 +835,14 @@
   (segment (start 152.4 73.66) (end 148.59 77.47) (width 0.25) (layer B.Cu) (net 6))
   (segment (start 155.575 73.66) (end 152.4 73.66) (width 0.25) (layer B.Cu) (net 6))
   (segment (start 156.845 72.39) (end 155.575 73.66) (width 0.25) (layer B.Cu) (net 6))
-  (segment (start 151.13 64.77) (end 154.305 64.77) (width 0.25) (layer F.Cu) (net 7) (status 20))
-  (segment (start 140.403699 65.971301) (end 149.928699 65.971301) (width 0.25) (layer F.Cu) (net 7))
-  (segment (start 149.928699 65.971301) (end 151.13 64.77) (width 0.25) (layer F.Cu) (net 7))
-  (segment (start 139.065 67.31) (end 140.403699 65.971301) (width 0.25) (layer F.Cu) (net 7))
-  (segment (start 132.08 67.31) (end 139.065 67.31) (width 0.25) (layer F.Cu) (net 7) (status 10))
   (segment (start 130.81 67.31) (end 132.08 67.31) (width 0.25) (layer F.Cu) (net 7))
   (segment (start 128.27 64.77) (end 130.81 67.31) (width 0.25) (layer F.Cu) (net 7))
   (segment (start 125.095 64.77) (end 128.27 64.77) (width 0.25) (layer F.Cu) (net 7))
+  (segment (start 151.13 64.77) (end 154.305 64.77) (width 0.25) (layer F.Cu) (net 7))
+  (segment (start 149.86 66.04) (end 151.13 64.77) (width 0.25) (layer F.Cu) (net 7))
+  (segment (start 140.335 66.04) (end 149.86 66.04) (width 0.25) (layer F.Cu) (net 7))
+  (segment (start 139.065 67.31) (end 140.335 66.04) (width 0.25) (layer F.Cu) (net 7))
+  (segment (start 132.08 67.31) (end 139.065 67.31) (width 0.25) (layer F.Cu) (net 7))
   (segment (start 125.095 69.85) (end 132.08 69.85) (width 0.25) (layer F.Cu) (net 8) (status 30))
   (segment (start 153.035 68.58) (end 154.305 69.85) (width 0.25) (layer F.Cu) (net 8))
   (segment (start 140.335 68.58) (end 153.035 68.58) (width 0.25) (layer F.Cu) (net 8))

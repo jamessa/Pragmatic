@@ -13,13 +13,13 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text GLabel 4675 3025 0    50   Input ~ 0
+Text GLabel 4875 3450 0    50   Input ~ 0
 VCC
-Text GLabel 5175 3025 2    50   Input ~ 0
+Text GLabel 5375 3450 2    50   Input ~ 0
 GND
-Text GLabel 2650 3050 2    50   Input ~ 0
+Text GLabel 2700 3475 2    50   Input ~ 0
 VCC
-Text GLabel 2150 3050 0    50   Input ~ 0
+Text GLabel 2200 3475 0    50   Input ~ 0
 GND
 $Comp
 L power:GND #PWR0103
@@ -107,85 +107,83 @@ Text GLabel 4475 1875 2    50   Input ~ 0
 VCC
 Text GLabel 4475 1675 2    50   Input ~ 0
 GND
-Text GLabel 4475 1775 2    50   Input ~ 0
-Reset
-Text GLabel 2150 3150 0    50   Input ~ 0
+Text GLabel 2200 3575 0    50   Input ~ 0
 SCL
-Text GLabel 2650 3150 2    50   Input ~ 0
+Text GLabel 2700 3575 2    50   Input ~ 0
 SDA
-Text GLabel 4675 3125 0    50   Input ~ 0
+Text GLabel 4875 3550 0    50   Input ~ 0
 SDA
-Text GLabel 5175 3125 2    50   Input ~ 0
+Text GLabel 5375 3550 2    50   Input ~ 0
 SCL
-Text GLabel 4675 3225 0    50   Input ~ 0
+Text GLabel 4875 3650 0    50   Input ~ 0
 Row1
-Text GLabel 4675 3325 0    50   Input ~ 0
+Text GLabel 4875 3750 0    50   Input ~ 0
 Row2
-Text GLabel 4675 3425 0    50   Input ~ 0
+Text GLabel 4875 3850 0    50   Input ~ 0
 Row3
-Text GLabel 4675 3525 0    50   Input ~ 0
+Text GLabel 4875 3950 0    50   Input ~ 0
 Row4
-Text GLabel 4675 3625 0    50   Input ~ 0
+Text GLabel 4875 4050 0    50   Input ~ 0
 Row5
-Text GLabel 2150 3250 0    50   Input ~ 0
+Text GLabel 2200 3675 0    50   Input ~ 0
 Col1
-Text GLabel 2150 3350 0    50   Input ~ 0
+Text GLabel 2200 3775 0    50   Input ~ 0
 Col2
-Text GLabel 2150 3450 0    50   Input ~ 0
+Text GLabel 2200 3875 0    50   Input ~ 0
 Col3
-Text GLabel 2150 3550 0    50   Input ~ 0
+Text GLabel 2200 3975 0    50   Input ~ 0
 Col4
-Text GLabel 2150 3650 0    50   Input ~ 0
+Text GLabel 2200 4075 0    50   Input ~ 0
 Col5
-Text GLabel 2650 3250 2    50   Input ~ 0
+Text GLabel 2700 3675 2    50   Input ~ 0
 Row1
-Text GLabel 2650 3350 2    50   Input ~ 0
+Text GLabel 2700 3775 2    50   Input ~ 0
 Row2
-Text GLabel 2650 3450 2    50   Input ~ 0
+Text GLabel 2700 3875 2    50   Input ~ 0
 Row3
-Text GLabel 2650 3550 2    50   Input ~ 0
+Text GLabel 2700 3975 2    50   Input ~ 0
 Row4
-Text GLabel 2650 3650 2    50   Input ~ 0
+Text GLabel 2700 4075 2    50   Input ~ 0
 Row5
-Text GLabel 5175 3225 2    50   Input ~ 0
+Text GLabel 5375 3650 2    50   Input ~ 0
 Col12
-Text GLabel 5175 3325 2    50   Input ~ 0
+Text GLabel 5375 3750 2    50   Input ~ 0
 Col11
-Text GLabel 5175 3425 2    50   Input ~ 0
+Text GLabel 5375 3850 2    50   Input ~ 0
 Col10
-Text GLabel 5175 3525 2    50   Input ~ 0
+Text GLabel 5375 3950 2    50   Input ~ 0
 Col9
 $Comp
 L Connector_Generic:Conn_02x08_Odd_Even J2
 U 1 1 618692F3
-P 4875 3325
-F 0 "J2" H 4925 3842 50  0000 C CNN
-F 1 "R" H 4925 3751 50  0000 C CNN
-F 2 "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical" H 4875 3325 50  0001 C CNN
-F 3 "~" H 4875 3325 50  0001 C CNN
-	1    4875 3325
+P 5075 3750
+F 0 "J2" H 5125 4267 50  0000 C CNN
+F 1 "2X8P IDC Connector Header Pitch 2.54mm" H 5125 4176 50  0000 C CNN
+F 2 "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical" H 5075 3750 50  0001 C CNN
+F 3 "~" H 5075 3750 50  0001 C CNN
+	1    5075 3750
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_02x08_Odd_Even J1
 U 1 1 61867C1C
-P 2350 3350
-F 0 "J1" H 2400 3867 50  0000 C CNN
-F 1 "L" H 2400 3776 50  0000 C CNN
-F 2 "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical" H 2350 3350 50  0001 C CNN
-F 3 "~" H 2350 3350 50  0001 C CNN
-	1    2350 3350
+P 2400 3775
+F 0 "J1" H 2450 4292 50  0000 C CNN
+F 1 "2X8P IDC Connector Header Pitch 2.54mm" H 2450 4201 50  0000 C CNN
+F 2 "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical" H 2400 3775 50  0001 C CNN
+F 3 "~" H 2400 3775 50  0001 C CNN
+	1    2400 3775
 	1    0    0    -1  
 $EndComp
-Text GLabel 4675 3725 0    50   Input ~ 0
+Text GLabel 4875 4150 0    50   Input ~ 0
 Row6
-Text GLabel 2150 3750 0    50   Input ~ 0
+Text GLabel 2200 4175 0    50   Input ~ 0
 Col6
-Text GLabel 5175 3725 2    50   Input ~ 0
+Text GLabel 5375 4150 2    50   Input ~ 0
 Col7
-Text GLabel 2650 3750 2    50   Input ~ 0
+Text GLabel 2700 4175 2    50   Input ~ 0
 Row6
-Text GLabel 5175 3625 2    50   Input ~ 0
+Text GLabel 5375 4050 2    50   Input ~ 0
 Col8
 Text GLabel 3075 2075 0    50   Input ~ 0
 SCL
@@ -261,4 +259,9 @@ F 3 "~" H 3875 3675 50  0001 C CNN
 	1    3875 3675
 	0    -1   -1   0   
 $EndComp
+Text Notes 2375 4350 0    50   ~ 0
+Left
+Text Notes 5025 4325 0    50   ~ 0
+Right
+NoConn ~ 4475 1775
 $EndSCHEMATC
