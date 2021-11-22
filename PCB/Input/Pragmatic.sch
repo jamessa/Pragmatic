@@ -1272,4 +1272,15 @@ Text GLabel 5750 2750 0    50   Input ~ 0
 Col1
 Text GLabel 5750 3150 0    50   Input ~ 0
 Col5
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 6199E1A3
+P 10100 6200
+F 0 "H5" H 10200 6246 50  0000 L CNN
+F 1 "MountingHole" H 10200 6155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 10100 6200 50  0001 C CNN
+F 3 "~" H 10100 6200 50  0001 C CNN
+	1    10100 6200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
