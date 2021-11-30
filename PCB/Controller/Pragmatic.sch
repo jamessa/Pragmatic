@@ -179,24 +179,13 @@ F 3 "~" H 8800 4300 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	8400 4300 8800 4300
-$Comp
-L Connector_Generic:Conn_01x04 J3
-U 1 1 6189149E
-P 5800 4950
-F 0 "J3" H 5880 4942 50  0000 L CNN
-F 1 "Conn_01x04" H 5880 4851 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 5800 4950 50  0001 C CNN
-F 3 "~" H 5800 4950 50  0001 C CNN
-	1    5800 4950
-	1    0    0    -1  
-$EndComp
-Text GLabel 5600 5050 0    50   Input ~ 0
+Text GLabel 6000 4850 2    50   Input ~ 0
 VCC
-Text GLabel 5600 5150 0    50   Input ~ 0
+Text GLabel 6000 4750 2    50   Input ~ 0
 GND
-Text GLabel 5600 4950 0    50   Input ~ 0
+Text GLabel 6000 4950 2    50   Input ~ 0
 Row2
-Text GLabel 5600 4850 0    50   Input ~ 0
+Text GLabel 6000 5050 2    50   Input ~ 0
 Row1
 Text GLabel 4050 3800 2    50   Input ~ 0
 Row2
@@ -247,5 +236,16 @@ F 2 "Connector_IDC:IDC-Header_2x07_P2.54mm_Vertical" H 3750 3900 50  0001 C CNN
 F 3 "~" H 3750 3900 50  0001 C CNN
 	1    3750 3900
 	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J3
+U 1 1 6189149E
+P 5800 4950
+F 0 "J3" H 5880 4942 50  0000 L CNN
+F 1 "Conn_01x04" H 5880 4851 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 5800 4950 50  0001 C CNN
+F 3 "~" H 5800 4950 50  0001 C CNN
+	1    5800 4950
+	-1   0    0    1   
 $EndComp
 $EndSCHEMATC
