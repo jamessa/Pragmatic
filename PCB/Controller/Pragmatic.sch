@@ -4,23 +4,129 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Pragmatic Bridge Module"
+Date "2021-11-30"
+Rev "V0.3"
+Comp "James Sa"
 Comment1 ""
 Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text GLabel 4875 3450 0    50   Input ~ 0
-VCC
-Text GLabel 5375 3450 2    50   Input ~ 0
+Text GLabel 4800 3800 0    50   Input ~ 0
+Row2
+Text GLabel 4800 3300 0    50   Input ~ 0
+Col1
+Text GLabel 4800 3400 0    50   Input ~ 0
+Col2
+Text GLabel 6200 3900 2    50   Input ~ 0
+Row3
+Text GLabel 4800 4000 0    50   Input ~ 0
+Row4
+Text GLabel 4800 4200 0    50   Input ~ 0
+Row5
+Text GLabel 6200 4300 2    50   Input ~ 0
+Row6
+Text GLabel 6200 4400 2    50   Input ~ 0
+Col7
+Text GLabel 6200 4200 2    50   Input ~ 0
+Col8
+Text GLabel 6200 4100 2    50   Input ~ 0
+Col9
+Text GLabel 6200 4000 2    50   Input ~ 0
+Col10
+Text GLabel 6200 3800 2    50   Input ~ 0
+Col11
+Text GLabel 6200 3700 2    50   Input ~ 0
+Col12
+Text GLabel 6200 3500 2    50   Input ~ 0
+Reset
+NoConn ~ 6200 3300
+Text GLabel 4800 3500 0    50   Input ~ 0
 GND
-Text GLabel 2700 3475 2    50   Input ~ 0
-VCC
-Text GLabel 2200 3475 0    50   Input ~ 0
+Text GLabel 4800 3600 0    50   Input ~ 0
 GND
+Text GLabel 6200 3600 2    50   Input ~ 0
+VCC
+Text GLabel 7100 3700 0    50   Input ~ 0
+VCC
+Text GLabel 7600 3700 2    50   Input ~ 0
+GND
+Text GLabel 7100 3800 0    50   Input ~ 0
+Row1
+Text GLabel 4800 3700 0    50   Input ~ 0
+Row1
+Text GLabel 4800 4400 0    50   Input ~ 0
+Col6
+Text GLabel 4800 4300 0    50   Input ~ 0
+Col5
+Text GLabel 4800 4100 0    50   Input ~ 0
+Col4
+$Comp
+L Biacco42:ProMicro U1
+U 1 1 6185DFED
+P 5500 4050
+F 0 "U1" H 5500 5087 60  0000 C CNN
+F 1 "ProMicro" H 5500 4981 60  0000 C CNN
+F 2 "keyboards:ArduinoProMicro" H 5600 3000 60  0001 C CNN
+F 3 "" H 5600 3000 60  0000 C CNN
+	1    5500 4050
+	1    0    0    -1  
+$EndComp
+Text GLabel 6200 3400 2    50   Input ~ 0
+GND
+Text GLabel 7100 3900 0    50   Input ~ 0
+Row2
+Text GLabel 7100 4000 0    50   Input ~ 0
+Row3
+Text GLabel 7100 4100 0    50   Input ~ 0
+Row4
+Text GLabel 7100 4200 0    50   Input ~ 0
+Row5
+Text GLabel 7100 4300 0    50   Input ~ 0
+Row6
+Text GLabel 7600 4300 2    50   Input ~ 0
+Col7
+Text GLabel 7600 4200 2    50   Input ~ 0
+Col8
+Text GLabel 7600 4100 2    50   Input ~ 0
+Col9
+Text GLabel 7600 4000 2    50   Input ~ 0
+Col10
+Text GLabel 7600 3900 2    50   Input ~ 0
+Col11
+Text GLabel 7600 3800 2    50   Input ~ 0
+Col12
+$Comp
+L Switch:SW_Push SW1
+U 1 1 61879342
+P 9460 5020
+F 0 "SW1" H 9500 5330 50  0000 C CNN
+F 1 "SW_Push" H 9500 5230 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 9460 5220 50  0001 C CNN
+F 3 "~" H 9460 5220 50  0001 C CNN
+	1    9460 5020
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR01
+U 1 1 6187A59F
+P 9660 5220
+F 0 "#PWR01" H 9660 4970 50  0001 C CNN
+F 1 "GND" H 9710 5000 50  0000 C CNN
+F 2 "" H 9660 5220 50  0001 C CNN
+F 3 "" H 9660 5220 50  0001 C CNN
+	1    9660 5220
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9660 5020 9660 5220
+Text GLabel 9060 5020 0    50   Input ~ 0
+Reset
+Wire Wire Line
+	9060 5020 9260 5020
+Text GLabel 4800 3900 0    50   Input ~ 0
+Col3
 $Comp
 L power:GND #PWR0103
 U 1 1 61895032
@@ -89,179 +195,57 @@ VCC
 Text GLabel 5600 5150 0    50   Input ~ 0
 GND
 Text GLabel 5600 4950 0    50   Input ~ 0
-SCL
+Row2
 Text GLabel 5600 4850 0    50   Input ~ 0
-SDA
-$Comp
-L keebio:Elite-C U1
-U 1 1 61971BB3
-P 3775 2125
-F 0 "U1" H 3775 2962 60  0000 C CNN
-F 1 "Elite-C" H 3775 2856 60  0000 C CNN
-F 2 "Pragmatic:Elite-C" V 4825 -375 60  0001 C CNN
-F 3 "" V 4825 -375 60  0001 C CNN
-	1    3775 2125
-	1    0    0    -1  
-$EndComp
-Text GLabel 4475 1875 2    50   Input ~ 0
+Row1
+Text GLabel 4050 3800 2    50   Input ~ 0
+Row2
+Text GLabel 3550 3800 0    50   Input ~ 0
+Col2
+Text GLabel 3550 4200 0    50   Input ~ 0
+Col6
+Text GLabel 3550 4000 0    50   Input ~ 0
+Col4
+Text GLabel 4050 4000 2    50   Input ~ 0
+Row4
+Text GLabel 4050 4200 2    50   Input ~ 0
+Row6
+Text GLabel 3550 3600 0    50   Input ~ 0
+GND
+Text GLabel 4050 3600 2    50   Input ~ 0
 VCC
-Text GLabel 4475 1675 2    50   Input ~ 0
-GND
-Text GLabel 2200 3575 0    50   Input ~ 0
-SCL
-Text GLabel 2700 3575 2    50   Input ~ 0
-SDA
-Text GLabel 4875 3550 0    50   Input ~ 0
-SDA
-Text GLabel 5375 3550 2    50   Input ~ 0
-SCL
-Text GLabel 4875 3650 0    50   Input ~ 0
-Row1
-Text GLabel 4875 3750 0    50   Input ~ 0
-Row2
-Text GLabel 4875 3850 0    50   Input ~ 0
-Row3
-Text GLabel 4875 3950 0    50   Input ~ 0
-Row4
-Text GLabel 4875 4050 0    50   Input ~ 0
+Text GLabel 4050 4100 2    50   Input ~ 0
 Row5
-Text GLabel 2200 3675 0    50   Input ~ 0
-Col1
-Text GLabel 2200 3775 0    50   Input ~ 0
-Col2
-Text GLabel 2200 3875 0    50   Input ~ 0
+Text GLabel 3550 3900 0    50   Input ~ 0
 Col3
-Text GLabel 2200 3975 0    50   Input ~ 0
-Col4
-Text GLabel 2200 4075 0    50   Input ~ 0
+Text GLabel 3550 4100 0    50   Input ~ 0
 Col5
-Text GLabel 2700 3675 2    50   Input ~ 0
-Row1
-Text GLabel 2700 3775 2    50   Input ~ 0
-Row2
-Text GLabel 2700 3875 2    50   Input ~ 0
+Text GLabel 3550 3700 0    50   Input ~ 0
+Col1
+Text GLabel 4050 3900 2    50   Input ~ 0
 Row3
-Text GLabel 2700 3975 2    50   Input ~ 0
-Row4
-Text GLabel 2700 4075 2    50   Input ~ 0
-Row5
-Text GLabel 5375 3650 2    50   Input ~ 0
-Col12
-Text GLabel 5375 3750 2    50   Input ~ 0
-Col11
-Text GLabel 5375 3850 2    50   Input ~ 0
-Col10
-Text GLabel 5375 3950 2    50   Input ~ 0
-Col9
+Text GLabel 4050 3700 2    50   Input ~ 0
+Row1
 $Comp
-L Connector_Generic:Conn_02x08_Odd_Even J2
+L Connector_Generic:Conn_02x07_Odd_Even J2
 U 1 1 618692F3
-P 5075 3750
-F 0 "J2" H 5125 4267 50  0000 C CNN
-F 1 "2X8P IDC Connector Header Pitch 2.54mm" H 5125 4176 50  0000 C CNN
-F 2 "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical" H 5075 3750 50  0001 C CNN
-F 3 "~" H 5075 3750 50  0001 C CNN
-	1    5075 3750
+P 7300 4000
+F 0 "J2" H 7350 4517 50  0000 C CNN
+F 1 "R" H 7350 4426 50  0000 C CNN
+F 2 "Connector_IDC:IDC-Header_2x07_P2.54mm_Vertical" H 7300 4000 50  0001 C CNN
+F 3 "~" H 7300 4000 50  0001 C CNN
+	1    7300 4000
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_02x08_Odd_Even J1
+L Connector_Generic:Conn_02x07_Odd_Even J1
 U 1 1 61867C1C
-P 2400 3775
-F 0 "J1" H 2450 4292 50  0000 C CNN
-F 1 "2X8P IDC Connector Header Pitch 2.54mm" H 2450 4201 50  0000 C CNN
-F 2 "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical" H 2400 3775 50  0001 C CNN
-F 3 "~" H 2400 3775 50  0001 C CNN
-	1    2400 3775
+P 3750 3900
+F 0 "J1" H 3800 4417 50  0000 C CNN
+F 1 "L" H 3800 4326 50  0000 C CNN
+F 2 "Connector_IDC:IDC-Header_2x07_P2.54mm_Vertical" H 3750 3900 50  0001 C CNN
+F 3 "~" H 3750 3900 50  0001 C CNN
+	1    3750 3900
 	1    0    0    -1  
 $EndComp
-Text GLabel 4875 4150 0    50   Input ~ 0
-Row6
-Text GLabel 2200 4175 0    50   Input ~ 0
-Col6
-Text GLabel 5375 4150 2    50   Input ~ 0
-Col7
-Text GLabel 2700 4175 2    50   Input ~ 0
-Row6
-Text GLabel 5375 4050 2    50   Input ~ 0
-Col8
-Text GLabel 3075 2075 0    50   Input ~ 0
-SCL
-Text GLabel 3075 1975 0    50   Input ~ 0
-SDA
-Text GLabel 3075 1775 0    50   Input ~ 0
-GND
-Text GLabel 3075 1875 0    50   Input ~ 0
-GND
-Text GLabel 3075 1575 0    50   Input ~ 0
-Col1
-Text GLabel 3075 1675 0    50   Input ~ 0
-Col2
-Text GLabel 4475 1575 2    50   Input ~ 0
-Col12
-Text GLabel 4475 1975 2    50   Input ~ 0
-Col11
-Text GLabel 3075 2175 0    50   Input ~ 0
-Row1
-Text GLabel 4475 2075 2    50   Input ~ 0
-Col10
-Text GLabel 4475 2175 2    50   Input ~ 0
-Row2
-Text GLabel 3075 2275 0    50   Input ~ 0
-Row3
-Text GLabel 4475 2275 2    50   Input ~ 0
-Row4
-Text GLabel 3075 2375 0    50   Input ~ 0
-Row5
-Text GLabel 4475 2375 2    50   Input ~ 0
-Row6
-Text GLabel 3075 2575 0    50   Input ~ 0
-Col4
-Text GLabel 3575 3075 3    50   Input ~ 0
-Col5
-Text GLabel 3075 2475 0    50   Input ~ 0
-Col3
-Text GLabel 3075 2675 0    50   Input ~ 0
-Col6
-Text GLabel 4475 2475 2    50   Input ~ 0
-Col9
-Text GLabel 4475 2575 2    50   Input ~ 0
-Col8
-Text GLabel 4475 2675 2    50   Input ~ 0
-Col7
-$Comp
-L Connector:Conn_01x02_Male J4
-U 1 1 619D981A
-P 3675 3675
-F 0 "J4" V 3700 3575 50  0000 L CNN
-F 1 "Conn_01x02_Male" V 3600 3375 50  0000 L CNN
-F 2 "Pragmatic:PinHolder_1x02_P2.54mm_Vertical" H 3675 3675 50  0001 C CNN
-F 3 "~" H 3675 3675 50  0001 C CNN
-	1    3675 3675
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3675 3475 3675 3075
-Wire Wire Line
-	3775 3475 3775 3075
-Wire Wire Line
-	3875 3475 3875 3075
-Wire Wire Line
-	3975 3475 3975 3075
-$Comp
-L Connector:Conn_01x02_Male J5
-U 1 1 619DB212
-P 3875 3675
-F 0 "J5" V 3900 3625 50  0000 C CNN
-F 1 "Conn_01x02_Male" V 3675 3675 50  0000 C CNN
-F 2 "Pragmatic:PinHolder_1x02_P2.54mm_Vertical" H 3875 3675 50  0001 C CNN
-F 3 "~" H 3875 3675 50  0001 C CNN
-	1    3875 3675
-	0    -1   -1   0   
-$EndComp
-Text Notes 2375 4350 0    50   ~ 0
-Left
-Text Notes 5025 4325 0    50   ~ 0
-Right
-NoConn ~ 4475 1775
 $EndSCHEMATC
