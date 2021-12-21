@@ -88,7 +88,7 @@
 1. 下載[Vial](https://get.vial.today)
 2. 下載[設定檔](https://github.com/jamessa/qmk_firmware/raw/jsa/keyboards/pragmatic/keymaps/vial/vial.json)。*按<kbd>Control</kbd>+滑鼠主鍵另存新檔即可。*
 3. 開啟「Vial」，選擇「File」>「Sideload VIA JSON...」
-4. 然後選取剛剛的設定檔，就可以開始修改配置了。t
+4. 然後選取剛剛的設定檔，就可以開始修改配置了。
 
 ## Inspired by
 
