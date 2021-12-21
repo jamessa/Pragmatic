@@ -86,9 +86,9 @@
 ## Vial使用方式
 
 1. 下載[Vial](https://get.vial.today)
-2. 下載[設定檔](https://github.com/jamessa/qmk_firmware/blob/jsa/keyboards/pragmatic/keymaps/vial/vial.json)
+2. 下載[設定檔](https://github.com/jamessa/qmk_firmware/raw/jsa/keyboards/pragmatic/keymaps/vial/vial.json)。*Windows用戶按<kbd>Control</kbd>+滑鼠主鍵即可以下載；Mac用戶按<kbd>Command</kbd>+滑鼠主鍵即可以下載。*
 3. 開啟「Vial」，選擇「File」>「Sideload VIA JSON...」
-4. 然後選取剛剛的設定檔，就可以開始修改配置了。
+4. 然後選取剛剛的設定檔，就可以開始修改配置了。t
 
 ## Inspired by
 
