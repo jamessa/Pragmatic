@@ -105,7 +105,7 @@
 [臉書討論](https://www.facebook.com/groups/1111882339005914/posts/1790356644491810) 或 加入[Telegram群組](https://t.me/joinchat/qp7NLK_H0vY2MjA1)
 
 ## Changelog
-
+- 2022-01-09 改用 Kicad 6
 - V0.4 改回ProMicro腳位，增加相容性。
 - V0.3 改為Elite-C腳位，重新定義IDC connector的腳位。 
 - V0.2 改為雙面版。
