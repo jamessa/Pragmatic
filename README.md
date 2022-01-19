@@ -34,22 +34,12 @@
 - 鍵帽（如果達標就可以來圖購）
 - 願意打破傳統的心（對，我就是在說你吧？！）
 
-## 功能
-
-本鍵盤套件功能
-
+## 基礎版
 - 支援櫻桃三腳軸 MX 、五腳軸與凱華矮軸 Choc。
-- 特製實心結構，聲音厚重，消除尖銳回音。
-- QMK韌體，預設內建VIAL，免重新燒錄！快速自定義！
-- 容易焊接，初學者可輕鬆入門
+- 特製消音棉，消除尖銳回音。
+- 支援QMK、VIAL快速自定義！
 
-## 成團條件
-
-- (達成)10人成團，你的名字將會刻在PCB上。
-- (快要達標了)超過20人，解鎖定位板套件與大家一起動手做工作坊。 
-- 超過30人的話，解鎖特製鍵帽套件。
-
-加入[Telegram群組](https://t.me/joinchat/qp7NLK_H0vY2MjA1)即可入團
+請參考Basic目錄。
 
 ## FAQ
 
@@ -110,3 +100,7 @@
 - V0.3 改為Elite-C腳位，重新定義IDC connector的腳位。 
 - V0.2 改為雙面版。
 - V0.1 開始。
+
+## Gallery
+![Pragmatic with Case](attachment/case.jpg)
+Case designed by [Botio! Studio](https://botiostudio.com)
