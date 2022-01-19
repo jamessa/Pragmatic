@@ -103,4 +103,4 @@
 
 ## Gallery
 ![Pragmatic with Case](attachment/case.jpg)
-Case designed by [Botio! Studio](https://botiostudio.com)
+ [Tent Case](https://www.thingiverse.com/thing:5178752) designed by [Botio! Studio](https://botiostudio.com)
