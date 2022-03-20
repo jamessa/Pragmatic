@@ -37,6 +37,8 @@
 
 ## FAQ
 
+[![Pragmatic V3 FAQ](https://img.youtube.com/vi/gGC56R72y4Q/default.jpg)](https://youtu.be/gGC56R72y4Q)說明影片
+
 1. 拇指好按嗎？
    - 內行人，其實我的右手很弱，打字一整天右手就會開始痛。然後我開始做鍵盤配置與手的解剖學研究，才發現到拇指不應該大量使用
    
@@ -61,7 +63,6 @@
 1. 組裝好之後，桌面到鍵帽(假設是高軸加上XDA鍵帽)的厚度如何？
    -  24mm 我也是用XDA。應該說，因為我不用QWERTY配置，導致我只有XDA可以使用。
 
-[![Pragmatic V3 FAQ](https://img.youtube.com/vi/gGC56R72y4Q/default.jpg)](https://youtu.be/gGC56R72y4Q)
 
 ## 安裝說明
 1. 依照下圖順序排列
