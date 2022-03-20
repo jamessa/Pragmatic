@@ -1,8 +1,8 @@
 # Pragmatic Keyboard Kit
 
-**Pragmatic 務實鍵盤** 是一把72鍵的分離式鍵盤，有數字列，有方向鍵與功能列。支援VIAL與QMK，輕鬆調整鍵盤配置，是分離式鍵盤的基本款。
+**Pragmatic 務實鍵盤** 是一個分離式鍵盤套件，有數字列，有方向鍵與功能列。支援VIAL與QMK，輕鬆調整鍵盤配置，是分離式鍵盤的基本款。
 
-![Pototype](attachment/prototype.jpeg)
+![V3](attachment/v3.jpeg)
 
 ## 務實主義
 
@@ -29,44 +29,40 @@
   - 消音泡棉 * 2片
   - 排線 * 2條
 
-- [Pro Micro 5V/16MHz](https://www.sparkfun.com/products/12640)或相容的開發板（會開[Elite C](https://ergotaiwan.tw/product/elite-c_v4/)團購）
-- 72顆你喜歡的軸（可以開圖）
-- 鍵帽（如果達標就可以來圖購）
-- 願意打破傳統的心（對，我就是在說你吧？！）
-
-## 基礎版
-- 支援櫻桃三腳軸 MX 、五腳軸與凱華矮軸 Choc。
-- 特製消音棉，消除尖銳回音。
-- 支援QMK、VIAL快速自定義！
-
-請參考Basic目錄。
+- 套組不含
+   - [Pro Micro 5V/16MHz](https://www.sparkfun.com/products/12640)或相容的開發
+   - 軸
+   - 鍵帽
+   - 願意打破傳統的心（對，我就是在說你吧？！）
 
 ## FAQ
 
-1. **拇指好按嗎？**
+1. 拇指好按嗎？
    - 內行人，其實我的右手很弱，打字一整天右手就會開始痛。然後我開始做鍵盤配置與手的解剖學研究，才發現到拇指不應該大量使用
    
-2. **分離式鍵盤會不會很難適應？**
+2. 分離式鍵盤會不會很難適應？
    - 老實說，這絕對不是一天就可以適應的，但是[鍵人谷](https://www.facebook.com/groups/1111882339005914)太多人換過鍵盤了，都可以提供很多方法。我自己會建議每天[keybr.com](keybr.com)練習15分鐘，慢慢打，求正確度，不用擔心速度。一到兩週就可以上手了，從此人生就改變了?!
    
-3. **在咖啡廳使用會被搭訕嗎？**
+3. 在咖啡廳使用會被搭訕嗎？
    - 我不知道為什麼你要這麼問。但是我們也做了一個抽樣調查，正妹/天菜受訪者表示會想要瞭解這個新奇的鍵盤，而不是使用者別擔心。
    
-4. **可以改鍵盤配置嗎？**
-   - 本鍵盤將會支援支援[QMK](https://qmk.fm)，讓你為所欲為。
+4. 可以改鍵盤配置嗎？
+   - 本鍵盤支援[QMK](https://qmk.fm)，讓你為所欲為。
    
-5. **完全沒有電子經驗可以自己做鍵盤嗎？**
+5. 完全沒有電子經驗可以自己做鍵盤嗎？
    - 這次的套件就是要大幅減少焊接的數量，最適合初學者了。但請注意自身安全！ 
    
-6. **有支援矮軸的可能嗎？**
-   - 支援。
-   
-7. **可以不要F列嗎？**
-   - 本專案都是開源的，你可以直接修改電路圖，想要什麼配置都可以。
-   
-8. **有熱插拔嗎？**
-   - 沒。 
-   
+1. 請問組裝好之後PCB的底部有尖銳物品會刮傷桌面嗎？
+   - 因為是熱插拔，所以軸腳不會突出，因此地板沒有尖銳物，放在腳上也可以安心使用。
+
+1. PCB底部有什麼脆弱部位容易受損嗎？
+   - 唯一可能被擊落的是二極體，但是目前還沒有人掉過。
+
+1. 組裝好之後，桌面到鍵帽(假設是高軸加上XDA鍵帽)的厚度如何？
+   -  24mm 我也是用XDA。應該說，因為我不用QWERTY配置，導致我只有XDA可以使用。
+
+[![Pragmatic V3 FAQ](https://img.youtube.com/vi/gGC56R72y4Q/default.jpg)](https://youtu.be/gGC56R72y4Q)
+
 ## 安裝說明
 1. 依照下圖順序排列
 ![stacking](attachment/stacking.jpeg)
@@ -94,7 +90,8 @@
 
 [臉書討論](https://www.facebook.com/groups/1111882339005914/posts/1790356644491810) 或 加入[Telegram群組](https://t.me/joinchat/qp7NLK_H0vY2MjA1)
 
-## Changelog  
+## Changelog
+- 2022-03-18 V3 with [3 form factor](https://www.facebook.com/groups/1111882339005914/posts/1883231691870971/)
 - 2022-03-02 V2 Hotswap
 - 2022-01-09 改用 Kicad 6
 - V0.4 改回ProMicro腳位，增加相容性。
@@ -103,5 +100,8 @@
 - V0.1 開始。
 
 ## Gallery
+
 ![Pragmatic with Case](attachment/case.jpg)
- [Tent Case](https://www.thingiverse.com/thing:5178752) designed by [Botio! Studio](https://botiostudio.com)
+A Pragmatic 72 [Tent Case](https://www.thingiverse.com/thing:5178752) designed by [Botio! Studio](https://botiostudio.com)
+
+![Pragmatic 72](attachment/p72-1.JPG) A Pragmatic 72 by Bart.
