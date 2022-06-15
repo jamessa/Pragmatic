@@ -35,25 +35,28 @@
    - 鍵帽
    - 願意打破傳統的心（對，我就是在說你吧？！）
 
+## 預設配置
+![size comparison chart](attachment/size-comparison.jpeg)
+
 ## FAQ
 
 [![Pragmatic V3 FAQ](https://img.youtube.com/vi/gGC56R72y4Q/default.jpg)](https://youtu.be/gGC56R72y4Q)說明影片
 
 1. 拇指好按嗎？
    - 內行人，其實我的右手很弱，打字一整天右手就會開始痛。然後我開始做鍵盤配置與手的解剖學研究，才發現到拇指不應該大量使用
-   
+
 2. 分離式鍵盤會不會很難適應？
    - 老實說，這絕對不是一天就可以適應的，但是[鍵人谷](https://www.facebook.com/groups/1111882339005914)太多人換過鍵盤了，都可以提供很多方法。我自己會建議每天[keybr.com](keybr.com)練習15分鐘，慢慢打，求正確度，不用擔心速度。一到兩週就可以上手了，從此人生就改變了?!
-   
+
 3. 在咖啡廳使用會被搭訕嗎？
    - 我不知道為什麼你要這麼問。但是我們也做了一個抽樣調查，正妹/天菜受訪者表示會想要瞭解這個新奇的鍵盤，而不是使用者別擔心。
-   
+
 4. 可以改鍵盤配置嗎？
-   - 本鍵盤支援[QMK](https://qmk.fm)，讓你為所欲為。
-   
+   - 本鍵盤支援[QMK](https://qmk.fm)與[Vial](https://get.vial.today)，讓你為所欲為。
+
 5. 完全沒有電子經驗可以自己做鍵盤嗎？
-   - 這次的套件就是要大幅減少焊接的數量，最適合初學者了。但請注意自身安全！ 
-   
+   - 這次的套件就是要大幅減少焊接的數量，最適合初學者了。但請注意自身安全！
+
 1. 請問組裝好之後PCB的底部有尖銳物品會刮傷桌面嗎？
    - 因為是熱插拔，所以軸腳不會突出，因此地板沒有尖銳物，放在腳上也可以安心使用。
 
@@ -98,17 +101,20 @@
 [臉書討論](https://www.facebook.com/groups/1111882339005914/posts/1790356644491810) 或 加入[Telegram群組](https://t.me/joinchat/qp7NLK_H0vY2MjA1)
 
 ## Changelog
+- 2022-06-11 V3.1 Controller with OLED.
 - 2022-03-18 V3 with [3 form factor](https://www.facebook.com/groups/1111882339005914/posts/1883231691870971/)
 - 2022-03-02 V2 Hotswap
 - 2022-01-09 改用 Kicad 6
 - V0.4 改回ProMicro腳位，增加相容性。
-- V0.3 改為Elite-C腳位，重新定義IDC connector的腳位。 
+- V0.3 改為Elite-C腳位，重新定義IDC connector的腳位。
 - V0.2 改為雙面版。
 - V0.1 開始。
 
 ## Gallery
 
 ![Pragmatic with Case](attachment/case.jpg)
-A Pragmatic 72 [Tent Case](https://www.thingiverse.com/thing:5178752) designed by [Botio! Studio](https://botiostudio.com)
+Pragmatic 72 [Tent Case](https://www.thingiverse.com/thing:5178752) designed by [Botio! Studio](https://botiostudio.com)
 
-![Pragmatic 72](attachment/p72-1.JPG) A Pragmatic 72 by Bart.
+![Pragmatic 72](attachment/p72-1.JPG) Pragmatic 72 by Bart.
+
+![Pragmatic 34](attachment/p34-ADA-1.jpg) Pragmatic 34 with [ADA keycaps](https://drop.com/buy/tex-ada-keycap-set) by Sean
