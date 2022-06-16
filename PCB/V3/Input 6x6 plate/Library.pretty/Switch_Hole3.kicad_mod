@@ -1,0 +1,22 @@
+(footprint "Switch_Hole3" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 62046F2A)
+  (fp_text reference "REFe" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ac6f6ed4-8668-453c-b29a-e5d6005ea361)
+  )
+  (fp_text value "e" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f95acf52-40ba-412b-9d45-8c2880174473)
+  )
+  (fp_text user "e" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 340170db-45d6-4c78-9448-445128dd4314)
+  )
+  (fp_rect (start -9.525 -9.525) (end 9.525 9.525) (layer "Dwgs.User") (width 0.12) (fill none) (tstamp 2ab4e285-80ef-4098-93e3-671fb896f742))
+  (fp_rect (start -7 -7) (end 7 7) (layer "Dwgs.User") (width 0.1) (fill none) (tstamp e97d6f91-227d-4b83-b78c-86d82f478af4))
+  (pad "" np_thru_hole oval (at 0 6 90) (size 2.5 14.5) (drill oval 2 14) (layers F&B.Cu *.Mask) (tstamp 322ce47b-b261-4cc9-9ac9-b731fc171ab9))
+  (pad "" np_thru_hole oval (at -6 0) (size 2.5 14.5) (drill oval 2 14) (layers F&B.Cu *.Mask) (tstamp 546148dc-8a5c-4178-ace4-1d6889891417))
+  (pad "" np_thru_hole oval (at 6 0 180) (size 2.5 14.5) (drill oval 2 14) (layers F&B.Cu *.Mask) (tstamp 7e881b05-98b1-4290-99fa-d895271485f2))
+  (pad "" np_thru_hole oval (at 0 -6 270) (size 2.5 14.5) (drill oval 2 14) (layers F&B.Cu *.Mask) (tstamp 8cbb6c57-e33d-447e-ba35-edd9102428e5))
+)
