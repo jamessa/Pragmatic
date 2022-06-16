@@ -402,8 +402,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "../../../../../Desktop/Pragmatic.dsn",
-      "step": "",
-      "vrml": ""
+      "step": "Pragmatic.step",
+      "vrml": "Pragmatic.wrl"
     },
     "page_layout_descr_file": ""
   },
