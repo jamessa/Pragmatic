@@ -1168,7 +1168,7 @@
     (property "Value" "ProMicro" (id 1) (at 139.7 78.8924 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Keyboard_JSA:ProMicro Reversed" (id 2) (at 166.37 161.29 90)
+    (property "Footprint" "Keyboard_JSA:ProMicro Type C Reversed" (id 2) (at 166.37 161.29 90)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 166.37 161.29 90)
@@ -1257,7 +1257,7 @@
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm")
     )
     (path "/c77559f1-9310-438e-bb42-9cac3de0d116"
-      (reference "U1") (unit 1) (value "ProMicro") (footprint "Keyboard_JSA:ProMicro Reversed")
+      (reference "U1") (unit 1) (value "ProMicro") (footprint "Keyboard_JSA:ProMicro Type C Reversed")
     )
   )
 )
