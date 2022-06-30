@@ -2,7 +2,7 @@
 
 **Pragmatic 務實鍵盤** 是一個分離式鍵盤套件，有數字列，有方向鍵與功能列。支援VIAL與QMK，輕鬆調整鍵盤配置，是分離式鍵盤的基本款。
 
-![V3](attachment/v3.jpeg)
+![V3](media/v3.jpeg)
 
 ## 務實主義
 
@@ -21,7 +21,7 @@
 
 **Pragmatic 務實鍵盤**是100%開源的，全程使用開源電路軟體KiCad設計，讓大家可以隨意改出符合自己需求的版本。要實踐一把務實鍵盤，需要以下的材料：
 
-![](attachment/kit.jpeg)
+![](media/kit.jpeg)
 
 - 務實鍵盤電路板套組，如上圖：
   - 電路板 * 3片：主控、左手、右手。
@@ -36,7 +36,7 @@
    - 願意打破傳統的心（對，我就是在說你吧？！）
 
 ## 預設配置
-![size comparison chart](attachment/size-comparison.jpeg)
+![size comparison chart](media/size-comparison.jpeg)
 
 ## FAQ
 
@@ -69,9 +69,9 @@
 
 ## 安裝說明
 1. 依照下圖順序排列
-![stacking](attachment/stacking.jpeg)
+![stacking](media/stacking.jpeg)
 2. 接線方式
-![cable](attachment/cable.jpeg)
+![cable](media/cable.jpeg)
 
 ## Vial使用方式
 
@@ -83,7 +83,7 @@
 ## 更新韌體
 1. 下載最新的[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases/latest)與[務實韌體](https://github.com/jamessa/Pragmatic/releases/latest)
 2. 開啟「Vial」，備份目前的配置。「Vial」->「Save current layout」。
-2. 開啟QMK toolbox，選取剛剛下載的韌體，並且勾選*Auto-Flash*。![toolbox](attachment/toolbox.jpg)
+2. 開啟QMK toolbox，選取剛剛下載的韌體，並且勾選*Auto-Flash*。![toolbox](media/toolbox.jpg)
 3. 按下控制板上面小小的Reset按鈕，這樣就更新完成了。
 
 ## Inspired by
@@ -112,9 +112,9 @@
 
 ## Gallery
 
-![Pragmatic with Case](attachment/case.jpg)
+![Pragmatic with Case](media/case.jpg)
 Pragmatic 72 [Tent Case](https://www.thingiverse.com/thing:5178752) designed by [Botio! Studio](https://botiostudio.com)
 
-![Pragmatic 72](attachment/p72-1.JPG) Pragmatic 72 by Bart.
+![Pragmatic 72](media/p72-1.JPG) Pragmatic 72 by Bart.
 
-![Pragmatic 34](attachment/p34-ADA-1.jpg) Pragmatic 34 with [ADA keycaps](https://drop.com/buy/tex-ada-keycap-set) by Sean
+![Pragmatic 34](media/p34-ADA-1.jpg) Pragmatic 34 with [ADA keycaps](https://drop.com/buy/tex-ada-keycap-set) by Sean
