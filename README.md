@@ -38,6 +38,8 @@
 ## 預設配置
 ![size comparison chart](media/size-comparison.jpeg)
 
+## [使用手冊](START.md)
+
 ## FAQ
 
 [![Pragmatic V3 FAQ](https://img.youtube.com/vi/gGC56R72y4Q/default.jpg)](https://youtu.be/gGC56R72y4Q)說明影片
