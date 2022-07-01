@@ -64,4 +64,4 @@ Pragmatic
 如果遇到問題，都可以直接到TG群組詢問喔。
 
 
-> "If computer is the bicycle to the mind, keyboard is pedal.", James Sa, creator of Pragmatic keyboard.
+> "If computer is the bicycle to the mind, keyboard is the pedal.", James Sa, creator of Pragmatic keyboard.
