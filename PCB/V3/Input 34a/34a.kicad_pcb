@@ -33,7 +33,6 @@
     (47 "F.CrtYd" user "F.Courtyard")
     (48 "B.Fab" user)
     (49 "F.Fab" user)
-    (50 "User.1" user "User.V-Cut")
   )
 
   (setup
@@ -8439,6 +8438,8 @@
     )
   )
 
+  (gr_line (start 45.085 145.415) (end 267.335 145.415) (layer "Cmts.User") (width 0.3) (tstamp 1df783f3-c67e-4610-92db-178c7cd8a47c))
+  (gr_line (start 45.085 45.085) (end 267.335 45.085) (layer "Cmts.User") (width 0.3) (tstamp cdf56de5-e7ce-4d73-a64a-b755be7e4ce9))
   (gr_line (start 267.335 145.415) (end 207.645 145.415) (layer "Edge.Cuts") (width 0.12) (tstamp 00f5916a-b159-4539-a77d-c7f56f39c4f7))
   (gr_arc (start 146.685 115.57) (mid 145.710394 114.118342) (end 145.415 112.395) (layer "Edge.Cuts") (width 0.12) (tstamp 05e1eede-1dd9-47a6-a20b-1a549fd74b16))
   (gr_line (start 207.645 146.685) (end 207.645 145.415) (layer "Edge.Cuts") (width 0.12) (tstamp 076ea858-5f9e-4542-af0b-18f5cf55ae18))
@@ -8511,8 +8512,6 @@
   (gr_line (start 145.415 112.395) (end 145.415 47.625) (layer "Edge.Cuts") (width 0.12) (tstamp f1612506-c348-4929-bfa0-c8af30712e42))
   (gr_arc (start 142.875 45.085) (mid 144.671051 45.828949) (end 145.415 47.625) (layer "Edge.Cuts") (width 0.12) (tstamp f2bbd3d3-52c6-482c-8d05-3714be952605))
   (gr_line (start 207.645 146.685) (end 196.215 146.685) (layer "Edge.Cuts") (width 0.12) (tstamp fb50bc4b-aaba-410d-9d3e-58c4e62c08db))
-  (gr_line (start 45.085 145.415) (end 267.335 145.415) (layer "User.1") (width 0.1) (tstamp 1df783f3-c67e-4610-92db-178c7cd8a47c))
-  (gr_line (start 45.085 45.085) (end 267.335 45.085) (layer "User.1") (width 0.1) (tstamp cdf56de5-e7ce-4d73-a64a-b755be7e4ce9))
   (gr_text "Pragmatic 34a by James Sa" (at 217.17 118.11) (layer "B.SilkS") (tstamp 00000000-0000-0000-0000-0000619936c4)
     (effects (font (size 1.2 1.2) (thickness 0.2)) (justify mirror))
   )
