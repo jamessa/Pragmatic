@@ -1,0 +1,13 @@
+M48
+; DRILL file {KiCad (6.0.10-0)} date 2023 January 12, Thursday 22:41:00
+; FORMAT={-:-/ absolute / metric / decimal}
+; #@! TF.CreationDate,2023-01-12T22:41:00+08:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,(6.0.10-0)
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
+FMAT,2
+METRIC
+%
+G90
+G05
+T0
+M30
