@@ -190,7 +190,12 @@
       (net 9 "Row6") (pinfunction "Pin_13") (pintype "passive") (tstamp 40165eda-4ba6-4565-9bb4-b9df6dbb08da))
     (pad "14" thru_hole circle (at 2.54 15.24) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 11 "Col6") (pinfunction "Pin_14") (pintype "passive") (tstamp 8c6a821f-8e19-48f3-8f44-9b340f7689bc))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x07_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x07_P2.54mm_Vertical.wrl" hide
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x07_P2.54mm_Vertical.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -272,7 +277,12 @@
       (net 9 "Row6") (pinfunction "Pin_13") (pintype "passive") (tstamp 7aed3a71-054b-4aaa-9c0a-030523c32827))
     (pad "14" thru_hole circle (at 2.54 15.24 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 18 "Col12") (pinfunction "Pin_14") (pintype "passive") (tstamp 9bb20359-0f8b-45bc-9d38-6626ed3a939d))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x07_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x07_P2.54mm_Vertical.wrl" hide
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x07_P2.54mm_Vertical.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -321,7 +331,12 @@
       (net 17 "Reset") (pinfunction "1") (pintype "passive") (tstamp 66116376-6967-4178-9f23-a26cdeafc400))
     (pad "2" thru_hole circle (at 6.5 4.5 90) (size 2 2) (drill 1) (layers *.Cu *.Mask)
       (net 21 "GND") (pinfunction "2") (pintype "passive") (tstamp 749dfe75-c0d6-4872-9330-29c5bbcb8ff8))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm.wrl" hide
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -794,7 +809,12 @@
       (net 3 "VCC") (pinfunction "Pin_3") (pintype "passive") (tstamp bc056fb7-ff03-4c82-bec6-c0a06dcb1a73))
     (pad "4" thru_hole oval (at 0 7.62 180) (size 1.7 1.7) (drill 1) (layers *.Cu "B.Mask")
       (net 21 "GND") (pinfunction "Pin_4") (pintype "passive") (tstamp d9d4e681-c506-49e8-ac50-834df27d5c37))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl" hide
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6647,7 +6667,7 @@
     (pad "24" thru_hole circle (at 7.62 12.7 180) (size 1.7 1.7) (drill 1) (layers *.Cu "B.Mask")
       (net 22 "unconnected-(U1-Pad24)") (pinfunction "RAW") (pintype "input+no_connect") (tstamp 6539b2f9-5054-4046-a6af-61a8de8e0d4e))
     (model "/Users/james/Projects/Keyboard/KiCad_Lib/JSA/models/arduino-pro-micro/ARDUINO PRO MICRO.STEP"
-      (offset (xyz -7.5 12.5 -6.5))
+      (offset (xyz -7.65 12.7 -6))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 90))
     )

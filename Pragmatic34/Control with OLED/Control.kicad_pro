@@ -347,7 +347,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Pragmatic.kicad_pro",
+    "filename": "Control.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -402,8 +402,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "../../../../../Downloads/Control.step",
+      "vrml": "Control.wrl"
     },
     "page_layout_descr_file": ""
   },
