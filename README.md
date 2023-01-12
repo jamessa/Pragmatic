@@ -61,6 +61,7 @@
 而且我喜歡用鉛筆做記號，方便我快速修改配置。你可以在此[下載空白板(PDF)](media/pragmatic%2034%20layout%20sheet.pdf)。
 
 ## 關於小鍵盤使用比較複雜的指令，比如說 <kbd>Ctrl</kbd>+<kbd>C</kbd>，<kbd>Command</kbd>+<kbd>Space</kbd>這種橫跨多個 Layer 的情形，有甚麼比較好的處理方式嗎？設定Macro？
+
 包括切換workspace，我都是做成左手快捷鍵。可以參考上圖左邊中間的配置，那是我的操作與數字層。
 
 ## 在咖啡廳使用會被搭訕嗎？
