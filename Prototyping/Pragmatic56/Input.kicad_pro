@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "V4.kicad_pro",
+    "filename": "Input.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -380,7 +380,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "V4.step",
+      "step": "56PCB.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
