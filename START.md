@@ -1,6 +1,11 @@
-# 務實34，OLED版
+# 組裝
 
-## 組裝
+### 務實56
+組裝影片 https://youtu.be/EOoOmIPXUWc
+
+### 務實34、60、75
+
+
 1. 認識你的鍵盤。一把務實鍵盤由一塊主控板與兩片手板組成。
 ![](media/IMG_8688.jpeg)
 
@@ -61,7 +66,7 @@ Pragmatic
 
 要修改前，記得先把目前的配置存起來，Vial.app -> File -> Save Current Layout。
 
-如果遇到問題，都可以直接到TG群組詢問喔。
+如果遇到問題，都可以直接到(Telegram Group](https://t.me/+qp7NLK_H0vY2MjA1)詢問喔。
 
 
 > "If computer is the bicycle to the mind, keyboard is the pedal.", James Sa, creator of Pragmatic keyboard.
