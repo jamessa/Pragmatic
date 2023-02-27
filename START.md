@@ -1,10 +1,11 @@
 # 組裝
 
 ### 務實56
-組裝影片 https://youtu.be/EOoOmIPXUWc
+組裝影片
+
+[![組裝影片](https://img.youtube.com/vi/EOoOmIPXUWc/hqdefault.jpg)](https://youtu.be/EOoOmIPXUWc)
 
 ### 務實34、60、75
-
 
 1. 認識你的鍵盤。一把務實鍵盤由一塊主控板與兩片手板組成。
 ![](media/IMG_8688.jpeg)
