@@ -67,7 +67,7 @@ Pragmatic
 
 要修改前，記得先把目前的配置存起來，Vial.app -> File -> Save Current Layout。
 
-如果遇到問題，都可以直接到(Telegram Group](https://t.me/+qp7NLK_H0vY2MjA1)詢問喔。
+如果遇到問題，都可以直接到[Telegram Group](https://t.me/+qp7NLK_H0vY2MjA1)詢問喔。
 
 
 > "If computer is the bicycle to the mind, keyboard is the pedal.", James Sa, creator of Pragmatic keyboard.
