@@ -65,7 +65,7 @@
         "clearance": "error",
         "connection_width": "warning",
         "copper_edge_clearance": "ignore",
-        "copper_sliver": "warning",
+        "copper_sliver": "ignore",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",

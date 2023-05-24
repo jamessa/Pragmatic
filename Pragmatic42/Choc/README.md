@@ -11,3 +11,12 @@ Current status: Validating.
 ![PCB](pcb.jpg)
 
 ![PCB with switches](pcbwswitch.jpg)
+
+# Revisions
+
+## CH42A2 2321
+   ^^ Switch type CHoc or MX
+     ^^ Number of keys
+       ^ Matrix Type: null for naïve matrix, A for duplex matrix
+        ^ PCB Revision
+- Change to Profile Choc V3
