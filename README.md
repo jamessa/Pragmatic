@@ -80,12 +80,12 @@
 
 # 更新韌體
 1. 下載最新的
-  1. [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases/latest)
-  2. [務實韌體](https://github.com/jamessa/Pragmatic/releases/latest)
-  3. [Vial配置軟體](https://get.vial.today/download/)
-4. 開啟「Vial」，備份目前的配置。「Vial」->「Save current layout」。
-2. 開啟QMK toolbox，選取剛剛下載的韌體，並且勾選*Auto-Flash*。![toolbox](media/toolbox.jpg)
-3. 按下控制板上面小小的Reset按鈕，這樣就更新完成了。
+  - [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases/latest)
+  - [務實韌體](https://github.com/jamessa/Pragmatic/releases/latest)
+  - [Vial配置軟體](https://get.vial.today/download/)
+2. 開啟「Vial」，備份目前的配置。「Vial」->「Save current layout」。
+3. 開啟QMK toolbox，選取剛剛下載的韌體，並且勾選*Auto-Flash*。![toolbox](media/toolbox.jpg)
+4. 按下控制板上面小小的Reset按鈕，這樣就更新完成了。
 
 # Inspired by
 
