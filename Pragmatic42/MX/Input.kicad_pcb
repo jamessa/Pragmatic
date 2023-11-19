@@ -8559,7 +8559,7 @@
   (gr_text "R1" (at 115.307 68) (layer "F.SilkS") (tstamp 16a83803-85e6-40ae-8aab-9519fe9c8c42)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "Pragmatic 42A\nR2 2023-05" (at 176 129) (layer "F.SilkS") (tstamp 47271043-c996-4c65-8214-8aa81814636e)
+  (gr_text "Pragmatic 42A\nR2 2023-06" (at 176 129) (layer "F.SilkS") (tstamp 47271043-c996-4c65-8214-8aa81814636e)
     (effects (font (size 1.5 1.5) (thickness 0.2)))
   )
   (gr_text "R4" (at 122.8 68) (layer "F.SilkS") (tstamp 49c67ed0-05ea-4ab2-a69a-2fbe4bd99ebb)
