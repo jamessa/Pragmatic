@@ -1,4 +1,6 @@
-
+*.step
+*.zip
+jlcpcb/
 # Created by https://www.toptal.com/developers/gitignore/api/kicad
 # Edit at https://www.toptal.com/developers/gitignore?templates=kicad
 
