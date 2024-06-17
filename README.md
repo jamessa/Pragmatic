@@ -58,7 +58,10 @@
 ## 可以給一下目前您用的定義嗎？
 我的配置。我平常寫C, Python,最近寫Tex😅 打字的話，漢語拼音佔九成，英文一成。
 ![](media/pragmatic_layout.jpeg)
-而且我喜歡用鉛筆做記號，方便我快速修改配置。你可以在此[下載空白板(PDF)](media/pragmatic%2034%20layout%20sheet.pdf)。
+而且我喜歡用鉛筆做記號，方便我快速修改配置。你可以在此下載
+
+- 34的空白設計檔[PDF](media/pragmatic%2034%20layout%20sheet.pdf)。
+- 42的空白設計檔[PDF](media/Pragmatic%2042%20Layout%20Designer.pdf)、[SVG](media/Pragmatic%2042%20Layout%20Designer.svg)。
 
 ## 關於小鍵盤使用比較複雜的指令，比如說 <kbd>Ctrl</kbd>+<kbd>C</kbd>，<kbd>Command</kbd>+<kbd>Space</kbd>這種橫跨多個 Layer 的情形，有甚麼比較好的處理方式嗎？設定Macro？
 
