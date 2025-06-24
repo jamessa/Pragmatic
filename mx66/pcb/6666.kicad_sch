@@ -5,6 +5,219 @@
 	(uuid "05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Connector_Audio:AudioJack4"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "AudioJack4"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Audio Jack, 4 Poles (TRRS)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "audio jack receptacle stereo headphones TRRS connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Jack*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "AudioJack4_0_1"
+				(rectangle
+					(start -6.35 -5.08)
+					(end -7.62 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.715 -5.08) (xy -5.08 -5.715) (xy -4.445 -5.08) (xy -4.445 2.54) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 -5.08) (xy -1.27 -5.715) (xy -0.635 -5.08) (xy -0.635 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -5.08) (xy 0.635 -5.715) (xy 1.27 -5.08) (xy 2.54 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 3.81)
+					(end -6.35 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy -2.54 0) (xy -2.54 -5.08) (xy -3.175 -5.715) (xy -3.81 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "AudioJack4_1_1"
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "R2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "R1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -5.08 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "T"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "DreaM117er_Library:DS_1N4148_SMD"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -654,159 +867,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "DreaM117er_Library:TRRS"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "T1"
-				(at 3.81 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "AudioJack4"
-				(at -5.08 13.335 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 -1.27 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "TRRS_0_1"
-				(rectangle
-					(start -2.54 10.16)
-					(end 2.54 0)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 10.16) (xy -1.905 12.065) (xy 1.905 12.065) (xy 1.905 10.16)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "TRRS_1_1"
-				(pin input line
-					(at -6.35 1.27 0)
-					(length 3.81)
-					(name "S"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 6.35 8.255 180)
-					(length 3.81)
-					(name "R2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 6.35 5.715 180)
-					(length 3.81)
-					(name "R1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 6.35 3.175 180)
-					(length 3.81)
-					(name "T"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Mechanical:MountingHole"
 			(pin_names
 				(offset 1.016)
@@ -1040,6 +1100,232 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:VCC"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"VCC\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "VCC_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(junction
 		(at 233.68 99.695)
@@ -1192,6 +1478,12 @@
 		(uuid "3117ff9c-3a6d-41ab-86bd-535974165a2a")
 	)
 	(junction
+		(at 104.14 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32265733-99d8-48f9-96f1-cea56bce5b49")
+	)
+	(junction
 		(at 180.34 112.395)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1336,6 +1628,12 @@
 		(uuid "6cdc5216-6a51-4f98-9fb3-d50097455243")
 	)
 	(junction
+		(at 212.725 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6ce3494a-06f5-492e-a1e3-e9cbb0d9d0da")
+	)
+	(junction
 		(at 180.34 99.695)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1376,12 +1674,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7de71770-dc32-42f6-8a89-7d592a745757")
-	)
-	(junction
-		(at 90.805 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7e247638-44ff-4ce6-b091-ded5448a09fe")
 	)
 	(junction
 		(at 207.01 137.795)
@@ -1606,6 +1898,12 @@
 		(uuid "d50a879d-a203-4c59-a631-9a608e678758")
 	)
 	(junction
+		(at 35.56 45.085)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d6404412-5152-45eb-8a1b-99ad82d6d692")
+	)
+	(junction
 		(at 223.52 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1811,6 +2109,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.725 43.18) (xy 212.725 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a29015c-4308-4421-85b9-9f57bd3438d1")
+	)
+	(wire
+		(pts
 			(xy 60.96 137.795) (xy 74.295 137.795)
 		)
 		(stroke
@@ -1961,6 +2269,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 143.51) (xy 104.14 153.035)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22b0ba77-84df-463c-8395-ff568654ade0")
+	)
+	(wire
+		(pts
 			(xy 210.185 105.41) (xy 210.185 118.11)
 		)
 		(stroke
@@ -2041,7 +2359,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 130.81) (xy 104.14 153.035)
+			(xy 104.14 130.81) (xy 104.14 143.51)
 		)
 		(stroke
 			(width 0)
@@ -2541,6 +2859,16 @@
 	)
 	(wire
 		(pts
+			(xy 35.56 42.545) (xy 35.56 45.085)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74ff47c2-e718-46ca-a4f4-d68cd76833bb")
+	)
+	(wire
+		(pts
 			(xy 223.52 85.09) (xy 223.52 105.41)
 		)
 		(stroke
@@ -2571,7 +2899,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.805 143.51) (xy 90.805 153.035)
+			(xy 90.805 130.81) (xy 90.805 153.035)
 		)
 		(stroke
 			(width 0)
@@ -2941,16 +3269,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.805 130.81) (xy 90.805 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bcb816cb-9de0-440d-8fe9-34dcaeaa7b7c")
-	)
-	(wire
-		(pts
 			(xy 220.345 137.795) (xy 233.68 137.795)
 		)
 		(stroke
@@ -3161,7 +3479,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 150.495) (xy 100.965 150.495)
+			(xy 87.63 150.495) (xy 114.3 150.495)
 		)
 		(stroke
 			(width 0)
@@ -3253,6 +3571,28 @@
 			)
 		)
 	)
+	(global_label "RX-L"
+		(shape input)
+		(at 121.92 55.245 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "097aedc9-8ae8-4383-89d2-70d08f0f2041")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 129.9852 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "row7"
 		(shape input)
 		(at 153.035 125.095 180)
@@ -3319,6 +3659,28 @@
 			)
 		)
 	)
+	(global_label "RX-L"
+		(shape input)
+		(at 35.56 40.005 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2e66c309-134e-4518-9a82-af90833ca164")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 27.4948 40.005 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col0.L"
 		(shape input)
 		(at 33.655 153.035 270)
@@ -3359,6 +3721,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RX-R"
+		(shape input)
+		(at 175.895 55.245 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3717f789-3b55-412e-865a-b09be9b7a3b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 184.2021 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -3451,6 +3835,28 @@
 			)
 		)
 	)
+	(global_label "TX-L"
+		(shape input)
+		(at 35.56 37.465 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4efc11b7-9005-46f9-8384-f89d6d1f58e5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 27.7972 37.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "row1"
 		(shape input)
 		(at 29.21 104.775 180)
@@ -3486,6 +3892,28 @@
 		(uuid "5ad276ef-ffc6-41fb-b4ae-4adce9c6d1c5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 145.5746 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RX-R"
+		(shape input)
+		(at 212.725 40.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6c587219-7943-4531-8059-9f3e287b1aea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.4179 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3557,6 +3985,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TX-L"
+		(shape input)
+		(at 121.92 52.705 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "963fbb04-64b3-4af3-83b2-11dc0e5f51ff")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 129.6828 52.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -3671,6 +4121,28 @@
 			)
 		)
 	)
+	(global_label "TX-R"
+		(shape input)
+		(at 175.895 52.705 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b6def9ea-e8cf-4666-a173-2e790a19bf72")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 183.8997 52.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col0.R"
 		(shape input)
 		(at 254.635 153.67 270)
@@ -3684,6 +4156,28 @@
 		(uuid "bc3af0ef-28e0-4cd4-a10b-fe096ef915e4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 254.635 162.6423 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TX-R"
+		(shape input)
+		(at 212.725 38.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c7cbb4fb-bbb3-4352-8520-b202741820f2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.7203 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3855,7 +4349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_2.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.25u"
 			(at 259.715 113.03 0)
 			(effects
 				(font
@@ -3898,6 +4392,80 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Audio:AudioJack4")
+		(at 170.815 52.705 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "09416828-e0dd-4da4-8717-7b7d5786484b")
+		(property "Reference" "J2"
+			(at 168.275 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Right side"
+			(at 168.275 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "DreaM117er-keebLibrary:TRRS-PJ-320A"
+			(at 170.815 52.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 170.815 52.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Audio Jack, 4 Poles (TRRS)"
+			(at 170.815 52.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "R2"
+			(uuid "3f2e412e-21f7-4153-a960-8d10de3ae37c")
+		)
+		(pin "S"
+			(uuid "8256ba49-b407-40ed-9bca-1a115d030391")
+		)
+		(pin "R1"
+			(uuid "e6e05397-b07e-4429-b7fb-5ecf69ff03fa")
+		)
+		(pin "T"
+			(uuid "34b1482d-b702-4630-880d-b211507b5ddc")
+		)
+		(instances
+			(project "6666"
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 69.215 97.79 0)
 		(unit 1)
@@ -3923,7 +4491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 69.215 92.71 0)
 			(effects
 				(font
@@ -3960,6 +4528,73 @@
 			(project "6666"
 				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
 					(reference "K12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 175.895 57.785 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0a942d7c-466f-49bf-91d7-df496b1586b2")
+		(property "Reference" "#PWR02"
+			(at 172.085 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC-R"
+			(at 179.705 57.7849 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.895 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.895 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 175.895 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cca7292c-170e-4e67-9a3a-f56fdceffde8")
+		)
+		(instances
+			(project "6666"
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -4247,80 +4882,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DreaM117er_Library:TRRS")
-		(at 169.545 59.055 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "10570fdf-52d5-4bb0-9748-d36e3abb5c61")
-		(property "Reference" "T2"
-			(at 169.545 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "AudioJack4"
-			(at 169.545 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "DreaM117er-keebLibrary:TRRS-PJ-320A"
-			(at 169.545 62.865 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 169.545 60.325 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 169.545 59.055 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "70b277da-3914-48da-bff4-2b23a0616745")
-		)
-		(pin "2"
-			(uuid "aa435b1b-49be-4a27-aa6e-248f1f873ec3")
-		)
-		(pin "3"
-			(uuid "1919bf3a-3688-40e0-a5bf-18d3dca853c4")
-		)
-		(pin "4"
-			(uuid "ac3947a7-1cb2-4298-8633-d3cf18bacc99")
-		)
-		(instances
-			(project ""
-				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
-					(reference "T2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "DreaM117er_Library:DS_1N4148_SMD")
 		(at 207.01 108.585 90)
 		(unit 1)
@@ -4556,7 +5117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 175.26 80.01 0)
 			(effects
 				(font
@@ -4624,7 +5185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 109.22 125.73 0)
 			(effects
 				(font
@@ -4762,7 +5323,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 82.55 92.71 0)
 			(effects
 				(font
@@ -4830,7 +5391,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 188.595 125.73 0)
 			(effects
 				(font
@@ -4874,7 +5435,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 241.935 85.09 180)
+		(at 241.935 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4882,7 +5443,7 @@
 		(dnp no)
 		(uuid "22a986f7-10e2-44a0-9122-e66c32988430")
 		(property "Reference" "O2"
-			(at 245.745 82.804 0)
+			(at 238.125 87.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4891,15 +5452,15 @@
 			)
 		)
 		(property "Value" "100"
-			(at 239.395 88.138 0)
+			(at 244.475 82.042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
-			(at 241.935 90.17 0)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
+			(at 241.935 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4908,7 +5469,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 241.935 90.17 0)
+			(at 241.935 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5106,7 +5667,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 201.93 100.33 0)
 			(effects
 				(font
@@ -5174,7 +5735,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_2.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.25u"
 			(at 38.735 125.73 0)
 			(effects
 				(font
@@ -5312,7 +5873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 95.885 92.71 0)
 			(effects
 				(font
@@ -5660,7 +6221,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 55.88 125.73 0)
 			(effects
 				(font
@@ -5728,7 +6289,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 241.935 125.73 0)
 			(effects
 				(font
@@ -5866,7 +6427,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 215.265 138.43 0)
 			(effects
 				(font
@@ -6214,7 +6775,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 69.215 106.045 0)
 			(effects
 				(font
@@ -6632,7 +7193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 201.93 138.43 0)
 			(effects
 				(font
@@ -6700,7 +7261,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 259.715 138.43 0)
 			(effects
 				(font
@@ -6768,7 +7329,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 228.6 138.43 0)
 			(effects
 				(font
@@ -6906,7 +7467,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 201.93 113.03 0)
 			(effects
 				(font
@@ -6974,7 +7535,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_2.75u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.75u"
 			(at 175.26 138.43 0)
 			(effects
 				(font
@@ -7042,7 +7603,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 228.6 80.01 0)
 			(effects
 				(font
@@ -7180,7 +7741,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 201.93 125.73 0)
 			(effects
 				(font
@@ -7248,7 +7809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 175.26 113.03 0)
 			(effects
 				(font
@@ -7285,6 +7846,73 @@
 			(project "6666"
 				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
 					(reference "K37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 76.2 45.085 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6a4c8529-48c0-4c5d-84d4-7bb244e7ccc2")
+		(property "Reference" "#PWR09"
+			(at 72.39 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC-L"
+			(at 80.01 45.0849 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.2 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 76.2 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b3e4f38b-2d5e-45b2-8602-ae2704f463ac")
+		)
+		(instances
+			(project "6666"
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -7386,7 +8014,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 69.215 125.73 0)
 			(effects
 				(font
@@ -7454,7 +8082,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.50u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
 			(at 38.735 92.71 0)
 			(effects
 				(font
@@ -7522,7 +8150,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 161.925 100.33 0)
 			(effects
 				(font
@@ -7635,6 +8263,80 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Audio:AudioJack4")
+		(at 116.84 52.705 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "799829ff-5e46-4a3c-afc9-8d16f03daa70")
+		(property "Reference" "J1"
+			(at 114.3 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Left side"
+			(at 114.3 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "DreaM117er-keebLibrary:TRRS-PJ-320A"
+			(at 116.84 52.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 52.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Audio Jack, 4 Poles (TRRS)"
+			(at 116.84 52.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "R2"
+			(uuid "419731c4-d22d-464d-9657-2f107c09f421")
+		)
+		(pin "S"
+			(uuid "880aad45-9d49-497c-bcce-9045ea084434")
+		)
+		(pin "R1"
+			(uuid "fa9d5ed1-1063-4c26-9662-a77c911bc794")
+		)
+		(pin "T"
+			(uuid "c2b4853e-7abb-40b7-914f-fc03e41bd12a")
+		)
+		(instances
+			(project ""
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 41.91 191.135 0)
 		(unit 1)
@@ -7724,7 +8426,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 109.22 92.71 0)
 			(effects
 				(font
@@ -7932,7 +8634,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 55.88 138.43 0)
 			(effects
 				(font
@@ -7976,7 +8678,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 95.885 143.51 0)
+		(at 109.22 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7984,7 +8686,7 @@
 		(dnp no)
 		(uuid "81a1b53c-8e90-4cce-bb38-118d01bcfece")
 		(property "Reference" "K25"
-			(at 92.075 145.796 0)
+			(at 105.41 145.796 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7993,15 +8695,15 @@
 			)
 		)
 		(property "Value" "225"
-			(at 98.425 140.462 0)
+			(at 111.76 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_2.25u"
-			(at 95.885 138.43 0)
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.25u"
+			(at 109.22 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8010,7 +8712,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.885 138.43 0)
+			(at 109.22 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8019,7 +8721,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 95.885 143.51 0)
+			(at 109.22 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8068,7 +8770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 95.885 80.01 0)
 			(effects
 				(font
@@ -8105,6 +8807,140 @@
 			(project "6666"
 				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
 					(reference "K21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.895 50.165 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "83a84fbf-d60e-470e-a65d-f78a30916829")
+		(property "Reference" "#PWR04"
+			(at 182.245 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND-R"
+			(at 179.7193 50.1649 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.895 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.895 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 175.895 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9a6cb7cb-9137-4f24-a408-39fe596ab6d2")
+		)
+		(instances
+			(project "6666"
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 253.365 40.64 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "84deb296-4d07-4973-8867-d4c129820ec0")
+		(property "Reference" "#PWR08"
+			(at 259.715 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND-R"
+			(at 256.54 40.6399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 253.365 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 253.365 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 253.365 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "595191d8-2892-4836-b58f-1c2352affb92")
+		)
+		(instances
+			(project "6666"
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -8321,6 +9157,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 35.56 45.085 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8c4b5a84-124a-4a7c-a386-634348ec780f")
+		(property "Reference" "#PWR06"
+			(at 29.21 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND-L"
+			(at 31.75 45.0849 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 35.56 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 35.56 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 35.56 45.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6cce0cee-5d98-478b-9b13-1029025f070d")
+		)
+		(instances
+			(project "6666"
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 95.885 111.125 0)
 		(unit 1)
@@ -8346,7 +9249,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 95.885 106.045 0)
 			(effects
 				(font
@@ -8414,7 +9317,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 259.715 97.79 0)
 			(effects
 				(font
@@ -8552,7 +9455,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 69.215 80.01 0)
 			(effects
 				(font
@@ -8831,7 +9734,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 215.265 80.01 0)
 			(effects
 				(font
@@ -9039,7 +9942,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 161.925 125.73 0)
 			(effects
 				(font
@@ -9241,7 +10144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 228.6 125.73 0)
 			(effects
 				(font
@@ -9443,7 +10346,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 215.265 113.03 0)
 			(effects
 				(font
@@ -9511,7 +10414,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 188.595 100.33 0)
 			(effects
 				(font
@@ -9579,7 +10482,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 188.595 80.01 0)
 			(effects
 				(font
@@ -9787,7 +10690,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 69.215 138.43 0)
 			(effects
 				(font
@@ -10034,80 +10937,6 @@
 		)
 	)
 	(symbol
-		(lib_id "DreaM117er_Library:TRRS")
-		(at 115.57 59.055 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ac66a8f3-2820-4527-8447-b4d9e9f763ce")
-		(property "Reference" "T1"
-			(at 115.57 42.545 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "AudioJack4"
-			(at 115.57 45.085 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "DreaM117er-keebLibrary:TRRS-PJ-320A"
-			(at 115.57 62.865 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 115.57 60.325 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 115.57 59.055 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "99e2dd89-14fe-4d00-becf-6f6d93d100dc")
-		)
-		(pin "3"
-			(uuid "218803ce-6c94-4314-abc1-6222444ee569")
-		)
-		(pin "1"
-			(uuid "5b567ccc-9277-4596-835a-35e138a44e51")
-		)
-		(pin "4"
-			(uuid "b28d155e-a2ef-4d0b-948d-a596368f6137")
-		)
-		(instances
-			(project ""
-				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
-					(reference "T1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 82.55 85.09 0)
 		(unit 1)
@@ -10133,7 +10962,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 82.55 80.01 0)
 			(effects
 				(font
@@ -10201,7 +11030,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 161.925 113.03 0)
 			(effects
 				(font
@@ -10269,7 +11098,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 82.55 138.43 0)
 			(effects
 				(font
@@ -10407,7 +11236,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 175.26 125.73 0)
 			(effects
 				(font
@@ -10545,7 +11374,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 38.735 80.01 0)
 			(effects
 				(font
@@ -10823,7 +11652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.50u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
 			(at 259.715 100.33 0)
 			(effects
 				(font
@@ -10937,7 +11766,7 @@
 	)
 	(symbol
 		(lib_id "DreaM117er_Library:DS_1N4148_SMD")
-		(at 100.965 146.685 90)
+		(at 114.3 146.685 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10945,7 +11774,7 @@
 		(dnp no)
 		(uuid "c197f642-f9f8-4b3d-9a8f-beeca548e9be")
 		(property "Reference" "D25"
-			(at 97.917 150.114 0)
+			(at 111.252 150.114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10954,7 +11783,7 @@
 			)
 		)
 		(property "Value" "1N4148_SMD"
-			(at 103.505 148.2724 90)
+			(at 116.84 148.2724 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10964,7 +11793,7 @@
 			)
 		)
 		(property "Footprint" "DreaM117er-keebLibrary:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 106.045 146.685 0)
+			(at 119.38 146.685 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10973,7 +11802,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.965 146.685 0)
+			(at 114.3 146.685 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10982,7 +11811,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.965 146.685 0)
+			(at 114.3 146.685 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11031,7 +11860,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 55.88 80.01 0)
 			(effects
 				(font
@@ -11099,7 +11928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.75u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.75u"
 			(at 38.735 116.205 0)
 			(effects
 				(font
@@ -11136,6 +11965,73 @@
 			(project "6666"
 				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
 					(reference "K3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 121.92 50.165 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c60b6e06-2aac-4607-bb6d-78502ef7563d")
+		(property "Reference" "#PWR03"
+			(at 128.27 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND-L"
+			(at 125.095 50.1649 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 121.92 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e27161c5-a0f7-405f-bc8d-26cb58677538")
+		)
+		(instances
+			(project "6666"
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -11212,6 +12108,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VCC")
+		(at 121.92 57.785 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c7cf9491-8b0b-4a2b-9fa6-7d9cb87e3a0e")
+		(property "Reference" "#PWR01"
+			(at 118.11 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC-L"
+			(at 125.73 57.7849 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 121.92 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c2313f13-ed20-4d7f-a504-dafdade291b9")
+		)
+		(instances
+			(project "6666"
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 82.55 111.125 0)
 		(unit 1)
@@ -11237,7 +12200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 82.55 106.045 0)
 			(effects
 				(font
@@ -11375,7 +12338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 122.555 80.01 0)
 			(effects
 				(font
@@ -11443,7 +12406,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_2.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.00u"
 			(at 241.935 97.79 0)
 			(effects
 				(font
@@ -11511,7 +12474,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 228.6 113.03 0)
 			(effects
 				(font
@@ -11579,7 +12542,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 241.935 100.33 0)
 			(effects
 				(font
@@ -11616,6 +12579,73 @@
 			(project "6666"
 				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
 					(reference "K59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 212.725 45.72 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cfd762a7-f0c9-4394-8f44-e6582ca9c4fc")
+		(property "Reference" "#PWR07"
+			(at 206.375 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND-R"
+			(at 209.55 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 212.725 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 212.725 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 212.725 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "66d5fc42-4caa-4389-b8e0-b39bf8d8392d")
+		)
+		(instances
+			(project "6666"
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -11857,7 +12887,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 55.88 106.045 0)
 			(effects
 				(font
@@ -11925,7 +12955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 241.935 138.43 0)
 			(effects
 				(font
@@ -12127,7 +13157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 175.26 100.33 0)
 			(effects
 				(font
@@ -12310,6 +13340,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VCC")
+		(at 253.365 45.72 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dfae331d-4190-4af9-aeca-c1b5d0db6dbf")
+		(property "Reference" "#PWR010"
+			(at 249.555 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC-R"
+			(at 257.175 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 253.365 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 253.365 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 253.365 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b9eb92f3-724d-4a66-bc06-111f6279da84")
+		)
+		(instances
+			(project "6666"
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 201.93 85.09 0)
 		(unit 1)
@@ -12335,7 +13432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 201.93 80.01 0)
 			(effects
 				(font
@@ -12403,7 +13500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 215.265 125.73 0)
 			(effects
 				(font
@@ -12611,7 +13708,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 188.595 113.03 0)
 			(effects
 				(font
@@ -12724,6 +13821,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 76.2 40.005 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ea98a7c5-1caa-433e-8a29-c45bd7b7fe96")
+		(property "Reference" "#PWR05"
+			(at 82.55 40.005 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND-L"
+			(at 79.375 40.0049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.2 40.005 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 40.005 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 76.2 40.005 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4071e357-f5a0-41dd-84f6-a63dd20ed5c1")
+		)
+		(instances
+			(project "6666"
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 38.735 118.11 0)
 		(unit 1)
@@ -12749,7 +13913,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 38.735 113.03 0)
 			(effects
 				(font
@@ -12817,7 +13981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 109.22 106.045 0)
 			(effects
 				(font
@@ -12885,7 +14049,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 228.6 100.33 0)
 			(effects
 				(font
@@ -12953,7 +14117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.25u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 38.735 138.43 0)
 			(effects
 				(font
@@ -13021,7 +14185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 161.925 80.01 0)
 			(effects
 				(font
@@ -13089,7 +14253,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 109.22 80.01 0)
 			(effects
 				(font
@@ -13227,7 +14391,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 95.885 125.73 0)
 			(effects
 				(font
@@ -13365,7 +14529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 82.55 125.73 0)
 			(effects
 				(font
@@ -13503,7 +14667,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 215.265 100.33 0)
 			(effects
 				(font
@@ -13641,7 +14805,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 259.715 125.73 0)
 			(effects
 				(font
@@ -13709,7 +14873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:SW_Hotswap_Kailh_MX_Plated_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 55.88 92.71 0)
 			(effects
 				(font
