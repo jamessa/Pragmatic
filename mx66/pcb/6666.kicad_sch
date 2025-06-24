@@ -2017,6 +2017,22 @@
 		(color 0 0 0 0)
 		(uuid "fdf43a60-c6f4-447a-9bc7-0604d0852a4a")
 	)
+	(no_connect
+		(at 253.365 35.56)
+		(uuid "4011ddcd-51a4-4b95-b7b3-e584691ae105")
+	)
+	(no_connect
+		(at 35.56 34.925)
+		(uuid "805dd8b6-5b37-47f2-97b6-b0b7aa084492")
+	)
+	(no_connect
+		(at 212.725 35.56)
+		(uuid "940b8570-9d50-470a-bf95-2f1fe6907222")
+	)
+	(no_connect
+		(at 76.2 34.925)
+		(uuid "b320b53b-4210-417d-8954-adf4b579b3fe")
+	)
 	(wire
 		(pts
 			(xy 77.47 143.51) (xy 77.47 153.035)
