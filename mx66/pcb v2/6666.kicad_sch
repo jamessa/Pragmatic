@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 223.393 17.907)
+		(size 25.146 11.684)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "591dfa39-5e2f-4b38-b9c9-eeea17ab506c")
+		(property "Sheetname" "common-left"
+			(at 223.393 17.1954 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "common-left.kicad_sch"
+			(at 223.393 30.1756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "6666"
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 253.746 36.195)
+		(size 25.146 11.684)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5d1423e5-8abb-440e-b810-a51bba690a16")
+		(property "Sheetname" "work-right"
+			(at 253.746 35.4834 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "work-right.kicad_sch"
+			(at 253.746 48.4636 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "6666"
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 254 17.78)
+		(size 25.019 11.684)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c90d87d8-6c01-47b4-9a42-b66106d3a3f5")
+		(property "Sheetname" "retro-hack"
+			(at 254 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "retro-hack.kicad_sch"
+			(at 254 30.0486 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "6666"
+				(path "/05a5af3f-0dd2-43e6-b7b5-29b92c0b6a18"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
