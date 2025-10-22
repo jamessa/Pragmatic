@@ -1585,7 +1585,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "08e2303f-f2c3-468b-ab79-32cebffc92b7")
-		(at 270.682 200.45)
+		(at 229.732 200.45)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K88"
@@ -4149,7 +4149,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "0d1f6a1a-1cac-47e0-9b93-ee6e062fde14")
-		(at 227.82 181.4)
+		(at 186.87 181.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K73"
@@ -4790,7 +4790,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "0fc79003-abb2-43e3-a100-0074cbc271b1")
-		(at 242.107 109.5)
+		(at 201.157 109.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K45"
@@ -5431,7 +5431,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 		(layer "F.Cu")
 		(uuid "106f1e78-a829-4d19-8672-65471470d665")
-		(at 268.301 238.55)
+		(at 227.351 238.55)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.25u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.25u")
 		(property "Reference" "K85"
@@ -6072,7 +6072,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 		(layer "F.Cu")
 		(uuid "14d43bea-d120-4657-823e-4e4f271ee0d8")
-		(at 254.014 128.55)
+		(at 213.064 128.55)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.25u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.25u")
 		(property "Reference" "K41"
@@ -6713,7 +6713,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
 		(layer "F.Cu")
 		(uuid "15650d99-0e40-415d-a8d6-df01392287c6")
-		(at 346.883 71.4)
+		(at 305.933 71.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.50u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.50u")
 		(property "Reference" "K63"
@@ -7354,13 +7354,13 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.75u"
 		(layer "F.Cu")
 		(uuid "159afd3b-f3b3-4afc-822a-cd73e69f6626")
-		(at 334.976 109.5 180)
+		(at 294.026 109.5 180)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 2.75u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.75u")
 		(property "Reference" "K65"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "e58c11b3-19f9-4e59-9741-a2ddbbc25803")
+			(uuid "0a6788db-0b6c-478b-9b4c-0dfb1cc579fb")
 			(effects
 				(font
 					(size 1 1)
@@ -7371,7 +7371,7 @@
 		(property "Value" "275"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "99d9e22e-3c79-444f-bc6e-afdb09168df4")
+			(uuid "f7dbffe9-3c05-4c36-a92f-f4a96e840451")
 			(effects
 				(font
 					(size 1 1)
@@ -7383,7 +7383,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "30bffa66-4152-4df5-b141-9068afea9d12")
+			(uuid "a3542094-6a90-4267-92ef-1477e0fb29e7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7395,7 +7395,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "81f730c3-87c3-46c1-b440-57cc739e5a63")
+			(uuid "babf386e-99fa-479c-a0e9-c0a406791da9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9277,7 +9277,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "200d9b2f-ac41-484c-8cf5-85daa148ac57")
-		(at 232.582 200.45)
+		(at 191.632 200.45)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K78"
@@ -13123,7 +13123,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.75u"
 		(layer "F.Cu")
 		(uuid "2b2c2816-9da4-4a85-9a53-6b1460c440ee")
-		(at 230.201 238.55)
+		(at 189.251 238.55)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 2.75u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.75u")
 		(property "Reference" "K80"
@@ -13764,13 +13764,13 @@
 	(footprint "DreaM117er-keebLibrary:SW_MX_Stabilizers_2.00u"
 		(layer "F.Cu")
 		(uuid "2d1edbce-32fb-4592-857b-5da62524020f")
-		(at 223.058 128.55 180)
+		(at 182.108 128.55)
 		(tags "Cherry MX Switch")
 		(property "Reference" "stab3"
-			(at 0 -1.2 180)
+			(at 0 -1.2 0)
 			(unlocked yes)
 			(layer "Dwgs.User")
-			(uuid "61907c0d-b658-45ca-baf2-1e9f3d4c5be4")
+			(uuid "cde912a4-134d-436e-90be-d3ead05c4773")
 			(effects
 				(font
 					(size 1 1)
@@ -13781,7 +13781,7 @@
 		(property "Value" "2u"
 			(at 0 -8.2625 0)
 			(layer "Dwgs.User")
-			(uuid "6b62a467-4863-41f7-922d-316cf3f2eb23")
+			(uuid "0d808b49-c596-462a-8c9e-83b2cf2106b7")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -13793,7 +13793,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "04ce07b9-7c19-44f7-8769-bdde70addfce")
+			(uuid "c6a9bd15-601b-4760-a9e5-8de9664b60e4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13805,7 +13805,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ec48716b-eb25-4c63-9aa2-be47881ad96a")
+			(uuid "b070f80e-f177-464f-9e15-2181210d1f2d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13819,24 +13819,14 @@
 		(sheetfile "retro-hack.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_line
-			(start 19.05 9.525)
-			(end -19.05 9.525)
+			(start -19.05 -9.525)
+			(end 19.05 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "a5eecdb3-bf52-4cb5-95e8-442206a7957e")
-		)
-		(fp_line
-			(start 19.05 -9.525)
-			(end 19.05 9.525)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "cea91ef6-25ca-4133-8abb-5eee83c8c101")
+			(uuid "ede8d610-a8e7-4cc9-82af-547f10085502")
 		)
 		(fp_line
 			(start -19.05 9.525)
@@ -13849,38 +13839,70 @@
 			(uuid "bfb1f9fe-07e1-4796-8bd4-e7ad28662f42")
 		)
 		(fp_line
-			(start -19.05 -9.525)
-			(end 19.05 -9.525)
+			(start 19.05 -9.525)
+			(end 19.05 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "ede8d610-a8e7-4cc9-82af-547f10085502")
+			(uuid "cea91ef6-25ca-4133-8abb-5eee83c8c101")
+		)
+		(fp_line
+			(start 19.05 9.525)
+			(end -19.05 9.525)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "a5eecdb3-bf52-4cb5-95e8-442206a7957e")
+		)
+		(fp_circle
+			(center -11.938 8.255)
+			(end -8.938 8.255)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill no)
+			(layer "Dwgs.User")
+			(uuid "e59fda6b-751f-469f-be4c-2b914e353d90")
+		)
+		(fp_circle
+			(center 11.938 8.255)
+			(end 14.938 8.255)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill no)
+			(layer "Dwgs.User")
+			(uuid "179507b6-6006-4786-9e32-c499bb275682")
 		)
 		(pad "" np_thru_hole circle
-			(at -11.938 -6.985 180)
+			(at -11.938 -6.985)
 			(size 3.048 3.048)
 			(drill 3.048)
 			(layers "*.Cu" "*.Mask")
 			(uuid "bfa89b04-f725-46b1-85d1-6aef6bce9138")
 		)
 		(pad "" np_thru_hole circle
-			(at -11.938 8.255 180)
+			(at -11.938 8.255)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
 			(uuid "5543c153-30fd-47ea-aa7b-76e1a5f792cf")
 		)
 		(pad "" np_thru_hole circle
-			(at 11.938 -6.985 180)
+			(at 11.938 -6.985)
 			(size 3.048 3.048)
 			(drill 3.048)
 			(layers "*.Cu" "*.Mask")
 			(uuid "0c67875c-4126-4c5b-b95b-d36927eb501f")
 		)
 		(pad "" np_thru_hole circle
-			(at 11.938 8.255 180)
+			(at 11.938 8.255)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
@@ -13913,7 +13935,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "3063323d-853d-4144-bc42-1381a613894e")
-		(at 275.445 219.5)
+		(at 234.495 219.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K84"
@@ -14554,7 +14576,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "32a75c81-475c-48a8-b796-c8490ecf0fd4")
-		(at 351.645 162.35)
+		(at 310.695 162.35)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K101"
@@ -15195,10 +15217,10 @@
 	(footprint "DreaM117er-keebLibrary:SW_MX_Stabilizers_2.00u"
 		(layer "F.Cu")
 		(uuid "3368dcb5-c29a-44e7-bec6-2bc69ed0af24")
-		(at 144.008 128.55 180)
+		(at 144.008 128.55)
 		(tags "Cherry MX Switch")
 		(property "Reference" "stab2"
-			(at 0 -1.2 180)
+			(at 0 -1.2 0)
 			(unlocked yes)
 			(layer "Dwgs.User")
 			(uuid "1a31b63a-4da9-4655-ab70-5478b696ac59")
@@ -15250,24 +15272,14 @@
 		(sheetfile "common-left.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_line
-			(start 19.05 9.525)
-			(end -19.05 9.525)
+			(start -19.05 -9.525)
+			(end 19.05 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "1614605f-345a-4fdb-8d67-ecfb3148d5b2")
-		)
-		(fp_line
-			(start 19.05 -9.525)
-			(end 19.05 9.525)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "c38b4cd9-5d9f-47f1-892a-33206dd3786a")
+			(uuid "7662438d-0e90-4029-a4a1-5af0947568db")
 		)
 		(fp_line
 			(start -19.05 9.525)
@@ -15280,38 +15292,70 @@
 			(uuid "91e4bffe-2d2b-4298-b868-3f65dcfc0ad3")
 		)
 		(fp_line
-			(start -19.05 -9.525)
-			(end 19.05 -9.525)
+			(start 19.05 -9.525)
+			(end 19.05 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "7662438d-0e90-4029-a4a1-5af0947568db")
+			(uuid "c38b4cd9-5d9f-47f1-892a-33206dd3786a")
+		)
+		(fp_line
+			(start 19.05 9.525)
+			(end -19.05 9.525)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "1614605f-345a-4fdb-8d67-ecfb3148d5b2")
+		)
+		(fp_circle
+			(center -11.938 8.255)
+			(end -8.938 8.255)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill no)
+			(layer "Dwgs.User")
+			(uuid "2e896649-b866-4f78-9591-e671e44ba2b2")
+		)
+		(fp_circle
+			(center 11.938 8.255)
+			(end 14.938 8.255)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill no)
+			(layer "Dwgs.User")
+			(uuid "645a4aa7-ce89-461e-aa15-c0ec8d8cae30")
 		)
 		(pad "" np_thru_hole circle
-			(at -11.938 -6.985 180)
+			(at -11.938 -6.985)
 			(size 3.048 3.048)
 			(drill 3.048)
 			(layers "*.Cu" "*.Mask")
 			(uuid "1749a082-1415-4614-935d-18814d9e3761")
 		)
 		(pad "" np_thru_hole circle
-			(at -11.938 8.255 180)
+			(at -11.938 8.255)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
 			(uuid "43ef2d36-e3d3-4103-81d3-6fac16348b45")
 		)
 		(pad "" np_thru_hole circle
-			(at 11.938 -6.985 180)
+			(at 11.938 -6.985)
 			(size 3.048 3.048)
 			(drill 3.048)
 			(layers "*.Cu" "*.Mask")
 			(uuid "5b5391a9-e8a0-4fc8-ae3c-df1d8a876010")
 		)
 		(pad "" np_thru_hole circle
-			(at 11.938 8.255 180)
+			(at 11.938 8.255)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
@@ -15985,7 +16029,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "36bd0aa9-fe0e-4e66-874a-07e0563edbfe")
-		(at 265.92 181.4)
+		(at 224.97 181.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K82"
@@ -16626,7 +16670,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "37022ef9-4dd5-4f60-879b-1348c3340441")
-		(at 308.783 90.45)
+		(at 267.833 90.45)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K59"
@@ -17267,7 +17311,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "3a834f78-d7d6-4e44-9905-505206556ebe")
-		(at 213.532 200.45)
+		(at 172.582 200.45)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K74"
@@ -17908,10 +17952,10 @@
 	(footprint "DreaM117er-keebLibrary:SW_MX_Stabilizers_2.00u"
 		(layer "F.Cu")
 		(uuid "3d71b703-a828-4f88-8dab-652ae7f0faa2")
-		(at 230.201 238.55 180)
+		(at 189.251 238.55)
 		(tags "Cherry MX Switch")
 		(property "Reference" "stab7"
-			(at 0 -1.2 180)
+			(at 0 -1.2 0)
 			(unlocked yes)
 			(layer "Dwgs.User")
 			(uuid "f05e32d6-b775-42ba-a589-65fb33304a79")
@@ -17963,24 +18007,14 @@
 		(sheetfile "work-right.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_line
-			(start 19.05 9.525)
-			(end -19.05 9.525)
+			(start -19.05 -9.525)
+			(end 19.05 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "c9e88e4b-c99d-4287-95e2-33ef0655deed")
-		)
-		(fp_line
-			(start 19.05 -9.525)
-			(end 19.05 9.525)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "cb692219-8f91-42cf-8e3e-d6d9e6684d02")
+			(uuid "1785ea6c-9008-4d12-8100-696c7b3f6c6c")
 		)
 		(fp_line
 			(start -19.05 9.525)
@@ -17993,38 +18027,48 @@
 			(uuid "e92e28cc-7053-4524-9d34-7e4b6f549d6d")
 		)
 		(fp_line
-			(start -19.05 -9.525)
-			(end 19.05 -9.525)
+			(start 19.05 -9.525)
+			(end 19.05 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "1785ea6c-9008-4d12-8100-696c7b3f6c6c")
+			(uuid "cb692219-8f91-42cf-8e3e-d6d9e6684d02")
+		)
+		(fp_line
+			(start 19.05 9.525)
+			(end -19.05 9.525)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "c9e88e4b-c99d-4287-95e2-33ef0655deed")
 		)
 		(pad "" np_thru_hole circle
-			(at -11.938 -6.985 180)
+			(at -11.938 -6.985)
 			(size 3.048 3.048)
 			(drill 3.048)
 			(layers "*.Cu" "*.Mask")
 			(uuid "18223cc5-ffc3-47ad-9de1-c96d422f9e25")
 		)
 		(pad "" np_thru_hole circle
-			(at -11.938 8.255 180)
+			(at -11.938 8.255)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
 			(uuid "5526d460-8dc5-4371-bd44-2625f008d0f8")
 		)
 		(pad "" np_thru_hole circle
-			(at 11.938 -6.985 180)
+			(at 11.938 -6.985)
 			(size 3.048 3.048)
 			(drill 3.048)
 			(layers "*.Cu" "*.Mask")
 			(uuid "db1d1ada-4f84-4c44-b4e5-015ca2d8ae90")
 		)
 		(pad "" np_thru_hole circle
-			(at 11.938 8.255 180)
+			(at 11.938 8.255)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
@@ -18698,7 +18742,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "435b55ff-05e5-4ba3-8e38-a951e1df37f6")
-		(at 304.02 71.4)
+		(at 263.07 71.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K53"
@@ -19339,7 +19383,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "462a1689-0738-44db-b936-451294f729be")
-		(at 280.207 109.5)
+		(at 239.257 109.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K55"
@@ -19980,7 +20024,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
 		(layer "F.Cu")
 		(uuid "467a2d89-6723-4dae-8e81-46f794aa12f0")
-		(at 346.883 181.4)
+		(at 305.933 181.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.50u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.50u")
 		(property "Reference" "K102"
@@ -21262,7 +21306,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "4bec19a7-f2f8-4a6a-892b-3b3b3fa8e46c")
-		(at 351.645 52.35)
+		(at 310.695 52.35)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K62"
@@ -21903,7 +21947,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "4c933a48-e33f-435c-bb94-13e6dc6160a8")
-		(at 323.07 181.4)
+		(at 282.12 181.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K97"
@@ -22544,7 +22588,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "4ceb47d3-54f4-42a3-afb0-82038c9f9d06")
-		(at 275.445 162.35)
+		(at 234.495 162.35)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K81"
@@ -23185,7 +23229,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "53b8ae12-75b3-45f7-af8e-2a9528e98ab6")
-		(at 313.545 219.5)
+		(at 272.595 219.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K94"
@@ -23826,7 +23870,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "54506185-aef6-4478-9d6b-2170624fb8a0")
-		(at 313.545 238.55)
+		(at 272.595 238.55)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K95"
@@ -24467,7 +24511,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "5678d588-df1f-4080-8956-792b1ae5f405")
-		(at 323.07 71.4)
+		(at 282.12 71.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K58"
@@ -25749,7 +25793,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "59acef14-b112-4ba6-b0bd-85ce4c627a44")
-		(at 261.157 109.5)
+		(at 220.207 109.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K50"
@@ -27031,7 +27075,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "5e5fb2fe-4939-4d06-9d5e-b31071adc0ba")
-		(at 256.395 52.35)
+		(at 215.445 52.35)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K37"
@@ -27672,7 +27716,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "6379cc9f-c0c4-4a51-bbee-943202e744fd")
-		(at 246.87 181.4)
+		(at 205.92 181.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K77"
@@ -28313,7 +28357,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.25u"
 		(layer "F.Cu")
 		(uuid "65752dce-233f-479d-8c86-1df4522b40b7")
-		(at 339.739 90.45)
+		(at 298.789 90.45)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 2.25u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.25u")
 		(property "Reference" "K64"
@@ -28954,7 +28998,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "663071e3-3ff0-476d-b8e5-54c659787b2e")
-		(at 308.782 200.45)
+		(at 267.832 200.45)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K98"
@@ -29595,7 +29639,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "67c4ac85-cef7-4f07-98e3-c67a2583d216")
-		(at 275.445 52.35)
+		(at 234.495 52.35)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K42"
@@ -30877,7 +30921,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "6ec0e9a5-dfe6-476a-84fb-4a6a679a5396")
-		(at 332.595 162.35)
+		(at 291.645 162.35)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K96"
@@ -31518,13 +31562,13 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "70b8cc35-c205-4355-9fbf-3e7372a684d7")
-		(at 351.645 109.5)
+		(at 310.695 109.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K68"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "bb2a4bd9-b2b5-4c61-a538-92765ab89bb2")
+			(uuid "67aecb8c-a6ce-4576-88e3-e64576de4fac")
 			(effects
 				(font
 					(size 1 1)
@@ -31535,7 +31579,7 @@
 		(property "Value" "100"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "0bb87674-b4c3-4030-97e0-131c007cf42b")
+			(uuid "ecfc4d2c-f826-4945-98df-436b3889cc64")
 			(effects
 				(font
 					(size 1 1)
@@ -31547,7 +31591,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aabc8b41-7cba-421a-a596-ea9db4a2c158")
+			(uuid "1577847b-6eaa-477a-90c4-ea0c41b969ee")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31559,7 +31603,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e76db3b4-8506-49d8-95f6-25224eaf059a")
+			(uuid "f10260e0-9c99-4f99-afb8-265c14520f34")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32159,7 +32203,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "72fcefa3-f7e5-4970-abaf-aeee7e58ad08")
-		(at 218.295 52.35 180)
+		(at 177.345 52.35 180)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K31"
@@ -33441,7 +33485,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "75869cf1-97ca-4738-9de3-cb234aeb6b42")
-		(at 304.02 181.4)
+		(at 263.07 181.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K92"
@@ -34082,7 +34126,7 @@
 	(footprint "DreaM117er-keebLibrary:SW_MX_Stabilizers_2.00u"
 		(layer "F.Cu")
 		(uuid "75e1ef1e-dac7-4a6e-aa8b-977f718597a2")
-		(at 339.7385 200.45 180)
+		(at 298.7885 200.45 180)
 		(tags "Cherry MX Switch")
 		(property "Reference" "stab6"
 			(at 0 -1.2 180)
@@ -34231,7 +34275,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "76fe5fc4-98c5-4db2-997a-e6b920bdf904")
-		(at 256.395 219.5)
+		(at 215.445 219.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K79"
@@ -35021,7 +35065,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "80dea665-f30a-45cc-99b7-41a425d6c59f")
-		(at 351.645 219.5)
+		(at 310.695 219.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K104"
@@ -35662,7 +35706,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "81108179-eac7-4f3b-bb91-53c43815c01b")
-		(at 289.733 90.45)
+		(at 248.783 90.45)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K54"
@@ -36303,7 +36347,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "835062ea-f7f3-468d-bd43-961e41c17903")
-		(at 265.92 71.4)
+		(at 224.97 71.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K43"
@@ -36944,7 +36988,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "84d54d70-07c3-470e-9fdb-f90f47d2e3c1")
-		(at 251.632 200.45)
+		(at 210.682 200.45)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K83"
@@ -37585,7 +37629,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "86c80223-7879-4994-9c39-75048429cbd2")
-		(at 218.295 219.5)
+		(at 177.345 219.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K71"
@@ -38226,7 +38270,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "8703bb6f-001f-40c6-b8e2-3b2613cd1967")
-		(at 294.495 162.35)
+		(at 253.545 162.35)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K86"
@@ -39508,7 +39552,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "888df7df-3e3b-4918-8044-823c1b3d117f")
-		(at 313.545 128.55)
+		(at 272.595 128.55)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K56"
@@ -40149,7 +40193,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "88ca8d02-461a-40d8-a930-fcf812835abb")
-		(at 351.645 128.55)
+		(at 310.695 128.55)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K66"
@@ -40790,7 +40834,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "8944a89e-b48d-4784-a7e1-d5438109eba6")
-		(at 313.545 52.35)
+		(at 272.595 52.35)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K52"
@@ -41431,7 +41475,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "8a4f85a6-4372-44a9-9bd7-09440d2ead84")
-		(at 251.633 90.45)
+		(at 210.683 90.45)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K44"
@@ -42072,7 +42116,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "8aeb2c52-d4b3-4388-a2c3-2438725c903d")
-		(at 232.583 90.45)
+		(at 191.633 90.45)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K39"
@@ -43354,7 +43398,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "8da3deb7-3a33-4037-8348-658740498bc6")
-		(at 223.057 109.5)
+		(at 182.107 109.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K40"
@@ -43995,7 +44039,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "8eb02d91-e9a9-4b21-9d2a-1633c87419ef")
-		(at 237.345 162.35 180)
+		(at 196.395 162.35 180)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K72"
@@ -44636,7 +44680,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "8eb22dc8-3f68-49dc-aabb-45250f6ec3a3")
-		(at 294.495 219.5)
+		(at 253.545 219.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K89"
@@ -45277,7 +45321,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "94934281-a5bb-4e63-b404-023cd1629b1b")
-		(at 246.87 71.4)
+		(at 205.92 71.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K38"
@@ -45918,7 +45962,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "94b39805-59ca-45cb-b631-aae2b2c04cee")
-		(at 213.533 90.45)
+		(at 172.583 90.45)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K35"
@@ -46559,7 +46603,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "9686031f-8eb2-4677-8cfa-dacc4e646d3a")
-		(at 284.97 181.4)
+		(at 244.02 181.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K87"
@@ -47200,7 +47244,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "9ba9a99a-0517-4fa6-80e6-8435fc61b635")
-		(at 299.257 109.5)
+		(at 258.307 109.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K60"
@@ -49764,7 +49808,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "a9908d4e-e486-47df-b762-f0f853084a98")
-		(at 313.545 162.35)
+		(at 272.595 162.35)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K91"
@@ -50405,7 +50449,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "ad839a97-ef66-4a4f-bb3d-38326b649709")
-		(at 237.345 52.35 180)
+		(at 196.395 52.35 180)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K33"
@@ -51046,7 +51090,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "b4d8dff3-a68c-44d3-b6aa-dd25fc79937f")
-		(at 332.595 128.55)
+		(at 291.645 128.55)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K61"
@@ -51687,7 +51731,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "b542ec01-95d2-4c69-99a3-3c8b2bca453d")
-		(at 270.683 90.45)
+		(at 229.733 90.45)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K49"
@@ -52969,7 +53013,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "bc824f8a-7582-45df-9e07-2479a65a05cc")
-		(at 218.295 162.35 180)
+		(at 177.345 162.35 180)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K69"
@@ -53610,7 +53654,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "bd2ac238-59d7-461e-bd7a-e2b016d178c8")
-		(at 294.495 128.55)
+		(at 253.545 128.55)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K51"
@@ -54251,7 +54295,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "c3e7203e-3c6c-4050-80ab-1afe3dfcff35")
-		(at 208.77 181.4)
+		(at 167.82 181.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K70"
@@ -54892,7 +54936,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "d13e77f1-c3a6-42d9-b275-681afcae5e43")
-		(at 227.82 71.4)
+		(at 186.87 71.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K34"
@@ -55533,13 +55577,13 @@
 	(footprint "DreaM117er-keebLibrary:SW_MX_Stabilizers_2.00u"
 		(layer "F.Cu")
 		(uuid "d22badf4-0ade-4c09-a15b-9bff20132c2f")
-		(at 339.739 90.45 180)
+		(at 298.789 90.45 180)
 		(tags "Cherry MX Switch")
 		(property "Reference" "stab4"
 			(at 0 -1.2 180)
 			(unlocked yes)
 			(layer "Dwgs.User")
-			(uuid "40b04492-9caf-45e3-87ef-8af244fdd117")
+			(uuid "168ea5c0-a93a-4cd0-811d-733316cffefb")
 			(effects
 				(font
 					(size 1 1)
@@ -55550,7 +55594,7 @@
 		(property "Value" "2u"
 			(at 0 -8.2625 0)
 			(layer "Dwgs.User")
-			(uuid "42d7ee37-37c6-4dda-9416-dcb27fefd9bc")
+			(uuid "466f992b-9086-4d97-bd2d-5f77d62f6b6d")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -55562,7 +55606,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ed31a04a-6653-4ff4-b76d-035c6222bc8a")
+			(uuid "cfd1c7d7-cabe-4c1c-b62c-781d69913b7f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55574,7 +55618,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "27062a0f-604f-4651-8f39-6b25401ed5e5")
+			(uuid "1d34f112-9ccd-4ec2-b452-9467fb6ca7f9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55682,7 +55726,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "d4c34ad9-9d58-4f98-aac8-6794eb9cc43d")
-		(at 284.97 71.4)
+		(at 244.02 71.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K48"
@@ -56323,7 +56367,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "d5b77ea8-3950-4f3f-ae9d-59dcc669e597")
-		(at 332.595 238.55)
+		(at 291.645 238.55)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K100"
@@ -56964,7 +57008,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "d6ba9acf-9589-46e1-a1e3-2c4b35cae05c")
-		(at 332.595 219.5)
+		(at 291.645 219.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K99"
@@ -58246,7 +58290,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "dbdd30e4-c61c-46ee-97bb-c233c5d23c6b")
-		(at 351.645 238.55)
+		(at 310.695 238.55)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K105"
@@ -58887,13 +58931,13 @@
 	(footprint "DreaM117er-keebLibrary:SW_MX_Stabilizers_2.00u"
 		(layer "F.Cu")
 		(uuid "df35fb6d-930d-406b-ac34-eff8348fdcea")
-		(at 334.976 109.5 180)
+		(at 294.026 109.5 180)
 		(tags "Cherry MX Switch")
 		(property "Reference" "stab5"
 			(at 0 -1.2 180)
 			(unlocked yes)
 			(layer "Dwgs.User")
-			(uuid "37bea050-2f08-47f1-bfa9-3c1f174c4862")
+			(uuid "e74a4d6d-ff3d-4ffa-b62e-c7771b4f3e62")
 			(effects
 				(font
 					(size 1 1)
@@ -58904,7 +58948,7 @@
 		(property "Value" "2u"
 			(at 0 -8.2625 0)
 			(layer "Dwgs.User")
-			(uuid "87e3b18e-626e-407c-8731-48161f1f90cb")
+			(uuid "e2aa20d5-ffc7-4119-b531-d879b86708fa")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -58916,7 +58960,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8b7d589a-cdcd-47c0-b208-2ffba345eabf")
+			(uuid "4756cc29-8567-4825-a135-55881152a7d3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58928,7 +58972,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fc418c0e-df4d-4ba9-8af2-c7739d360c05")
+			(uuid "ae972821-7410-438b-ad9d-62a3bc9e9083")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59036,7 +59080,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "df89532a-f5b0-4dbd-b176-17f66e366561")
-		(at 275.445 128.55)
+		(at 234.495 128.55)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K46"
@@ -60959,7 +61003,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "e4fbb337-a508-4816-b004-5284590cb6d2")
-		(at 289.732 200.45)
+		(at 248.782 200.45)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K93"
@@ -61600,7 +61644,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.25u"
 		(layer "F.Cu")
 		(uuid "e714b1f5-5f86-48bc-8dc3-21a2751f2e4b")
-		(at 339.7385 200.45)
+		(at 298.7885 200.45)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 2.25u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.25u")
 		(property "Reference" "K103"
@@ -62882,7 +62926,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "ee140891-df4e-4924-949e-1124f23a7bf9")
-		(at 208.77 71.4)
+		(at 167.82 71.4)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K32"
@@ -63523,7 +63567,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "f172232e-b284-4d43-871d-ff5826f275b7")
-		(at 237.345 219.5)
+		(at 196.395 219.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K75"
@@ -64164,7 +64208,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.00u"
 		(layer "F.Cu")
 		(uuid "f3213909-cb0a-4a66-8bf7-5e1eab5307f5")
-		(at 223.058 128.55)
+		(at 182.108 128.55)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 2.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.00u")
 		(property "Reference" "K36"
@@ -64805,7 +64849,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "f64f6747-5926-47f0-b2f9-2c012fea02c2")
-		(at 332.595 52.35)
+		(at 291.645 52.35)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K57"
@@ -65446,13 +65490,13 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.75u"
 		(layer "F.Cu")
 		(uuid "f7600e4e-0b50-40c5-9ace-01841bcb1355")
-		(at 325.453 109.5)
+		(at 284.503 109.5)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.75u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.75u")
 		(property "Reference" "K67"
 			(at 0 -8 0)
 			(layer "F.SilkS")
-			(uuid "8ce26d52-601c-462b-a853-d0803ce8d701")
+			(uuid "a3083b26-6742-4052-8c95-c6ebab73bb48")
 			(effects
 				(font
 					(size 1 1)
@@ -65463,7 +65507,7 @@
 		(property "Value" "175"
 			(at 0 8 0)
 			(layer "F.Fab")
-			(uuid "92677bba-5bf7-441c-a351-603e22504e41")
+			(uuid "6f2697ce-aa89-411a-b6a5-5be54e255684")
 			(effects
 				(font
 					(size 1 1)
@@ -65475,7 +65519,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e018b372-9a59-4e32-b23c-9073dabb65f9")
+			(uuid "a5c1ae28-80eb-49be-9e6d-a8a5e16416b9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65487,7 +65531,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "afd0bc61-4834-4dee-af90-f3f2a3409136")
+			(uuid "5382be3a-5232-4d67-bc79-1b0030504c24")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66087,7 +66131,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "f7cbd2ba-9a0b-4ee7-8995-e8be893429af")
-		(at 256.395 162.35)
+		(at 215.445 162.35)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K76"
@@ -66728,7 +66772,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 		(layer "F.Cu")
 		(uuid "fab9f226-f1c5-4a14-a109-f935c7a9f5ac")
-		(at 292.114 238.55)
+		(at 251.164 238.55)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.25u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.25u")
 		(property "Reference" "K90"
@@ -67369,7 +67413,7 @@
 	(footprint "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 		(layer "F.Cu")
 		(uuid "fbff6eb1-d16f-44d4-9405-a9b92025fb91")
-		(at 294.495 52.35)
+		(at 253.545 52.35)
 		(descr "Kailh keyswitch Hotswap Socket Keycap 1.00u")
 		(tags "Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u")
 		(property "Reference" "K47"
@@ -68651,7 +68695,7 @@
 	(footprint "DreaM117er-keebLibrary:TRRS-PJ-320A"
 		(layer "B.Cu")
 		(uuid "23d9f402-b263-4a16-bb4d-530cfbe9585a")
-		(at 227.82 148.975 180)
+		(at 186.87 148.975 180)
 		(property "Reference" "J3"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -68985,7 +69029,7 @@
 	(footprint "DreaM117er-keebLibrary:TRRS-PJ-320A"
 		(layer "B.Cu")
 		(uuid "c86cd10a-f9cc-4451-8c40-0a83412e0fe4")
-		(at 227.82 38.975 180)
+		(at 186.87 38.975 180)
 		(property "Reference" "J2"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
@@ -69150,8 +69194,18 @@
 		)
 	)
 	(gr_line
-		(start 224.2918 148.825)
-		(end 224.2918 150.625)
+		(start 171.382 119.025)
+		(end 166.258 119.025)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "043ab99d-fc0e-4ae8-ae7a-54911926bc4c")
+	)
+	(gr_line
+		(start 183.3418 148.825)
+		(end 183.3418 150.625)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69160,9 +69214,9 @@
 		(uuid "06fd543e-d5a3-457e-a42f-694aa28f5b05")
 	)
 	(gr_arc
-		(start 206.208 138.075)
-		(mid 204.652365 137.430635)
-		(end 204.008 135.875)
+		(start 166.258 139.805)
+		(mid 164.702365 139.160635)
+		(end 164.058 137.605)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69171,9 +69225,9 @@
 		(uuid "087ae032-80ea-409a-855e-d717151ea843")
 	)
 	(gr_arc
-		(start 224.2918 150.625)
-		(mid 223.647435 152.180635)
-		(end 222.0918 152.825)
+		(start 183.3418 150.625)
+		(mid 182.697435 152.180635)
+		(end 181.1418 152.825)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69192,19 +69246,19 @@
 		(uuid "0effe384-17f4-461f-be62-f9d32ea1003e")
 	)
 	(gr_line
-		(start 222.0918 42.825)
-		(end 210.97 42.825)
+		(start 181.1418 42.825)
+		(end 172.02 42.825)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "1157f7fe-282e-4580-98b9-465c194a605e")
 	)
 	(gr_arc
-		(start 208.77 45.025)
-		(mid 209.414365 43.469365)
-		(end 210.97 42.825)
+		(start 169.82 45.025)
+		(mid 170.464365 43.469365)
+		(end 172.02 42.825)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69213,8 +69267,8 @@
 		(uuid "1c551768-087f-453f-8921-5919f0d10c9b")
 	)
 	(gr_line
-		(start 206.57 229.025)
-		(end 206.20725 229.025)
+		(start 166.62 229.025)
+		(end 166.25725 229.025)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69223,9 +69277,9 @@
 		(uuid "1cb64313-36c3-4fe4-ad2c-74448a658d83")
 	)
 	(gr_arc
-		(start 358.97 152.825)
-		(mid 360.525635 153.469365)
-		(end 361.17 155.025)
+		(start 318.02 152.825)
+		(mid 319.575635 153.469365)
+		(end 320.22 155.025)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69234,9 +69288,9 @@
 		(uuid "1cc22a42-0bfc-40f0-8202-16f43aca614c")
 	)
 	(gr_arc
-		(start 199.245 64.075)
-		(mid 199.889365 62.519365)
-		(end 201.445 61.875)
+		(start 159.295 64.075)
+		(mid 159.939365 62.519365)
+		(end 161.495 61.875)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69245,8 +69299,8 @@
 		(uuid "1fa5e040-1dc1-4c20-947a-44fe05e7f9cc")
 	)
 	(gr_line
-		(start 204.008 193.125)
-		(end 204.007 207.775)
+		(start 164.058 193.125)
+		(end 164.057 207.775)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69265,9 +69319,9 @@
 		(uuid "286d6fdf-cbd5-4235-8b21-c6eadfdff49e")
 	)
 	(gr_arc
-		(start 201.808 190.925)
-		(mid 203.363635 191.569365)
-		(end 204.008 193.125)
+		(start 161.858 190.925)
+		(mid 163.413635 191.569365)
+		(end 164.058 193.125)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69276,9 +69330,9 @@
 		(uuid "288fa29d-69d1-4f5e-92bd-ec6246119aff")
 	)
 	(gr_arc
-		(start 233.5482 42.825)
-		(mid 231.992565 42.180635)
-		(end 231.3482 40.625)
+		(start 192.5982 42.825)
+		(mid 191.042565 42.180635)
+		(end 190.3982 40.625)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69287,9 +69341,9 @@
 		(uuid "2d705fb2-4f90-44aa-90e1-59c45c04ca20")
 	)
 	(gr_arc
-		(start 224.2918 40.625)
-		(mid 223.647435 42.180635)
-		(end 222.0918 42.825)
+		(start 183.3418 40.625)
+		(mid 182.697435 42.180635)
+		(end 181.1418 42.825)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69298,9 +69352,9 @@
 		(uuid "30b05901-e805-4bef-9810-85a7961a408b")
 	)
 	(gr_arc
-		(start 233.5482 152.825)
-		(mid 231.992565 152.180635)
-		(end 231.3482 150.625)
+		(start 192.5982 152.825)
+		(mid 191.042565 152.180635)
+		(end 190.3982 150.625)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69309,9 +69363,9 @@
 		(uuid "32340304-e937-4b02-a278-4b47f66b7e4e")
 	)
 	(gr_arc
-		(start 361.17 135.875)
-		(mid 360.525635 137.430635)
-		(end 358.97 138.075)
+		(start 320.22 137.605)
+		(mid 319.575635 139.160635)
+		(end 318.02 139.805)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69320,8 +69374,8 @@
 		(uuid "33716834-a6d8-4ad5-9590-31c8c009ec83")
 	)
 	(gr_line
-		(start 233.5482 152.825)
-		(end 358.97 152.825)
+		(start 192.5982 152.825)
+		(end 318.02 152.825)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69330,8 +69384,8 @@
 		(uuid "33c47b2c-f887-4451-82fc-d85ec807ad02")
 	)
 	(gr_line
-		(start 160.296 81.125)
-		(end 160.658 81.125)
+		(start 158.496 81.125)
+		(end 158.858 81.125)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69340,8 +69394,8 @@
 		(uuid "34a703b5-77af-47d1-8b0c-72b7f78b450a")
 	)
 	(gr_line
-		(start 158.096 78.925)
-		(end 158.096 63.875)
+		(start 156.296 78.925)
+		(end 156.296 63.875)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69350,8 +69404,8 @@
 		(uuid "3f119a79-f727-4ccc-bc37-c94b1caf32b6")
 	)
 	(gr_line
-		(start 233.5482 42.825)
-		(end 358.97 42.825)
+		(start 192.5982 42.825)
+		(end 318.02 42.825)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69360,9 +69414,9 @@
 		(uuid "43586492-1343-4eac-b2f1-b6f444e3fbc6")
 	)
 	(gr_arc
-		(start 160.296 81.125)
-		(mid 158.740365 80.480635)
-		(end 158.096 78.925)
+		(start 158.496 81.125)
+		(mid 156.940365 80.480635)
+		(end 156.296 78.925)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69371,9 +69425,9 @@
 		(uuid "4451155d-7aa7-4cea-a23e-6f4630c0d705")
 	)
 	(gr_arc
-		(start 206.207 209.975)
-		(mid 204.651365 209.330635)
-		(end 204.007 207.775)
+		(start 166.257 209.975)
+		(mid 164.701365 209.330635)
+		(end 164.057 207.775)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69382,18 +69436,18 @@
 		(uuid "47a3a913-3a92-4c15-b5b9-5f69b43dae38")
 	)
 	(gr_line
-		(start 204.008 135.875)
-		(end 204.008 121.225)
+		(start 161.058 121.025)
+		(end 161.058 137.605)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "4827a3f4-a417-46f0-969c-643dd5d47caf")
+		(uuid "48ee04a7-3a9e-47b1-87eb-205cf57d78eb")
 	)
 	(gr_line
-		(start 206.208 99.975)
-		(end 211.333 99.975)
+		(start 166.258 99.975)
+		(end 171.383 99.975)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69402,9 +69456,9 @@
 		(uuid "4c8b6dd0-cca9-4ad6-a540-616b16fa81ec")
 	)
 	(gr_arc
-		(start 201.445 190.925)
-		(mid 199.889365 190.280635)
-		(end 199.245 188.725)
+		(start 161.495 190.925)
+		(mid 159.939365 190.280635)
+		(end 159.295 188.725)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69413,8 +69467,8 @@
 		(uuid "4d35e644-37a0-47e2-8a50-bd2c9a0e16c3")
 	)
 	(gr_line
-		(start 208.77 155.025)
-		(end 208.77 169.675)
+		(start 169.82 155.025)
+		(end 169.82 169.675)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69423,9 +69477,9 @@
 		(uuid "54db3f9e-a6de-4ef9-8b44-5a4de3ce5e1f")
 	)
 	(gr_arc
-		(start 165.42 42.825)
-		(mid 166.975635 43.469365)
-		(end 167.62 45.025)
+		(start 164.62 42.825)
+		(mid 166.175635 43.469365)
+		(end 166.82 45.025)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69434,9 +69488,9 @@
 		(uuid "55ed7406-f12f-4261-bf30-833559c4e5d8")
 	)
 	(gr_arc
-		(start 206.57 209.975)
-		(mid 208.125635 210.619365)
-		(end 208.77 212.175)
+		(start 166.62 209.975)
+		(mid 168.175635 210.619365)
+		(end 168.82 212.175)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69445,9 +69499,9 @@
 		(uuid "645e6dc9-915d-4461-a786-1d7f22669d23")
 	)
 	(gr_arc
-		(start 204.008 121.225)
-		(mid 204.652365 119.669365)
-		(end 206.208 119.025)
+		(start 164.058 121.225)
+		(mid 164.702365 119.669365)
+		(end 166.258 119.025)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69456,19 +69510,19 @@
 		(uuid "67ac4819-dd90-4c49-a364-efe65ffb8a58")
 	)
 	(gr_line
-		(start 206.57 171.875)
-		(end 201.445 171.875)
+		(start 167.62 171.875)
+		(end 161.495 171.875)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "699c5396-df94-4168-a229-8c2873574b3d")
 	)
 	(gr_arc
-		(start 167.62 59.475)
-		(mid 166.975635 61.030635)
-		(end 165.42 61.675)
+		(start 166.82 59.475)
+		(mid 166.175635 61.030635)
+		(end 164.62 61.675)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69476,30 +69530,9 @@
 		(layer "Edge.Cuts")
 		(uuid "6d40e4c6-26e1-4a99-9a6e-67cc9f2cb154")
 	)
-	(gr_arc
-		(start 172.382 116.625)
-		(mid 171.737635 118.180635)
-		(end 170.182 118.825)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "6db7266c-88b3-46aa-a41f-fa886d742d6d")
-	)
 	(gr_line
-		(start 172.382 116.625)
-		(end 172.382 102.375)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "702976f4-9f67-479d-b908-5b61f46a8a5d")
-	)
-	(gr_line
-		(start 165.057 100.175)
-		(end 170.182 100.175)
+		(start 163.257 100.175)
+		(end 168.382 100.175)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69508,9 +69541,9 @@
 		(uuid "70d6ff23-4f9a-4aab-930c-b9518363bd17")
 	)
 	(gr_arc
-		(start 160.658 81.125)
-		(mid 162.213635 81.769365)
-		(end 162.858 83.325)
+		(start 158.858 81.125)
+		(mid 160.413635 81.769365)
+		(end 161.058 83.325)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69519,9 +69552,9 @@
 		(uuid "7102e0c8-5607-4ae4-9849-10c21b2c5b64")
 	)
 	(gr_arc
-		(start 208.77 155.025)
-		(mid 209.414365 153.469365)
-		(end 210.97 152.825)
+		(start 169.82 155.025)
+		(mid 170.464365 153.469365)
+		(end 172.02 152.825)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69530,9 +69563,9 @@
 		(uuid "710d17e8-6874-4742-93f8-d3bb7d97471c")
 	)
 	(gr_arc
-		(start 162.858 121.025)
-		(mid 163.502365 119.469365)
-		(end 165.058 118.825)
+		(start 161.058 121.025)
+		(mid 161.702365 119.469365)
+		(end 163.258 118.825)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69541,9 +69574,9 @@
 		(uuid "724a13ef-c83b-4801-89a8-29f30ca4a956")
 	)
 	(gr_arc
-		(start 165.057 100.175)
-		(mid 163.501365 99.530635)
-		(end 162.857 97.975)
+		(start 163.257 100.175)
+		(mid 161.701365 99.530635)
+		(end 161.057 97.975)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69552,8 +69585,8 @@
 		(uuid "72c1c8c4-5913-41d6-9ea1-9bee135c4ef6")
 	)
 	(gr_line
-		(start 206.207 209.975)
-		(end 206.57 209.975)
+		(start 166.257 209.975)
+		(end 166.62 209.975)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69561,10 +69594,20 @@
 		(layer "Edge.Cuts")
 		(uuid "737aab67-40be-4691-909f-c40ef1aa0918")
 	)
+	(gr_line
+		(start 163.258 118.825)
+		(end 168.381 118.825)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "751de2a4-7576-40a4-9c0e-1c68b1ec2acb")
+	)
 	(gr_arc
-		(start 158.096 63.875)
-		(mid 158.740365 62.319365)
-		(end 160.296 61.675)
+		(start 156.296 63.875)
+		(mid 156.940365 62.319365)
+		(end 158.496 61.675)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69573,15 +69616,25 @@
 		(uuid "7c14e69a-4c83-491c-afb9-f6f02caf1b2b")
 	)
 	(gr_arc
-		(start 206.208 248.075)
-		(mid 204.652365 247.430635)
-		(end 204.008 245.875)
+		(start 166.258 249.805)
+		(mid 164.702365 249.160635)
+		(end 164.058 247.605)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
 		(uuid "7cfb8d69-76b9-40bd-9702-7c9e947b5564")
+	)
+	(gr_line
+		(start 320.22 45.025)
+		(end 320.22 137.605)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "7deea0d7-f7c2-4bd5-953d-715a3fcafe2e")
 	)
 	(gr_line
 		(start 145.2418 38.825)
@@ -69605,19 +69658,19 @@
 		(uuid "81bba9a7-25ab-4338-a7fb-556f06554092")
 	)
 	(gr_line
-		(start 206.57 61.875)
-		(end 201.445 61.875)
+		(start 167.62 61.875)
+		(end 161.495 61.875)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "82ab7075-92cc-45e5-9c5d-9e457716d85c")
 	)
 	(gr_arc
-		(start 206.208 99.975)
-		(mid 204.652365 99.330635)
-		(end 204.008 97.775)
+		(start 166.258 99.975)
+		(mid 164.702365 99.330635)
+		(end 164.058 97.775)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69626,18 +69679,8 @@
 		(uuid "84c76887-cdad-47f5-ad7a-f8e3c2012387")
 	)
 	(gr_line
-		(start 211.332 119.025)
-		(end 206.208 119.025)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "861ad35d-2446-47f4-8f13-828f06176c44")
-	)
-	(gr_line
-		(start 201.445 80.925)
-		(end 201.808 80.925)
+		(start 161.495 80.925)
+		(end 161.858 80.925)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69646,8 +69689,8 @@
 		(uuid "87401854-4121-439a-8793-e5f58f53e797")
 	)
 	(gr_line
-		(start 204.008 83.125)
-		(end 204.008 97.775)
+		(start 164.058 83.125)
+		(end 164.058 97.775)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69667,9 +69710,9 @@
 		(uuid "8daf81e5-6b0e-4cb7-823f-50700d49a3cc")
 	)
 	(gr_arc
-		(start 361.17 245.875)
-		(mid 360.525635 247.430635)
-		(end 358.97 248.075)
+		(start 320.22 247.605)
+		(mid 319.575635 249.160635)
+		(end 318.02 249.805)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69678,8 +69721,8 @@
 		(uuid "9122202d-8543-4b0e-8c20-a56f24d909fa")
 	)
 	(gr_line
-		(start 224.2918 148.825)
-		(end 231.3482 148.825)
+		(start 183.3418 148.825)
+		(end 190.3982 148.825)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69688,9 +69731,9 @@
 		(uuid "926d0297-473c-4d20-a048-ebe245723b0d")
 	)
 	(gr_arc
-		(start 213.532 116.825)
-		(mid 212.887635 118.380635)
-		(end 211.332 119.025)
+		(start 173.582 116.825)
+		(mid 172.937635 118.380635)
+		(end 171.382 119.025)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69699,8 +69742,8 @@
 		(uuid "94b3d644-3e44-4fb9-a02a-939379afc230")
 	)
 	(gr_line
-		(start 167.62 59.475)
-		(end 167.62 45.025)
+		(start 166.82 59.475)
+		(end 166.82 45.025)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69708,20 +69751,10 @@
 		(layer "Edge.Cuts")
 		(uuid "95e8dff2-8e03-43f7-a469-9de8236cb02e")
 	)
-	(gr_line
-		(start 361.17 45.025)
-		(end 361.17 135.875)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "96bb2ab8-54aa-41df-b920-57b43ebc5e2b")
-	)
 	(gr_arc
-		(start 201.808 80.925)
-		(mid 203.363635 81.569365)
-		(end 204.008 83.125)
+		(start 161.858 80.925)
+		(mid 163.413635 81.569365)
+		(end 164.058 83.125)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69740,8 +69773,8 @@
 		(uuid "9b980e26-53d5-42c6-a371-aacc2e920625")
 	)
 	(gr_line
-		(start 231.3482 148.825)
-		(end 231.3482 150.625)
+		(start 190.3982 148.825)
+		(end 190.3982 150.625)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69750,49 +69783,29 @@
 		(uuid "9b9df8d6-21f7-4134-9ba1-48b4d5af3fb2")
 	)
 	(gr_line
-		(start 358.97 138.075)
-		(end 206.208 138.075)
+		(start 318.02 139.805)
+		(end 166.258 139.805)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "9c82c457-5918-4900-8cd4-20d12da62307")
 	)
 	(gr_line
-		(start 210.97 152.825)
-		(end 222.0918 152.825)
+		(start 172.02 152.825)
+		(end 181.1418 152.825)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "9e2299cd-7982-435f-b512-8a0c5620cd94")
 	)
-	(gr_line
-		(start 204.00725 231.225)
-		(end 204.008 245.875)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "a0c32856-2d39-497f-b50b-c42cc635dee3")
-	)
-	(gr_line
-		(start 213.533 102.175)
-		(end 213.532 116.825)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "a18257c9-c0a2-4b86-9f23-975d87d3e29c")
-	)
 	(gr_arc
-		(start 162.858 135.875)
-		(mid 162.213635 137.430635)
-		(end 160.658 138.075)
+		(start 161.058 137.605)
+		(mid 160.413635 139.160635)
+		(end 158.858 139.805)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69801,9 +69814,9 @@
 		(uuid "a735cf6b-8a27-44f0-be87-2e1fdba670c9")
 	)
 	(gr_arc
-		(start 201.445 80.925)
-		(mid 199.889365 80.280635)
-		(end 199.245 78.725)
+		(start 161.495 80.925)
+		(mid 159.939365 80.280635)
+		(end 159.295 78.725)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69812,7 +69825,27 @@
 		(uuid "a7fa620c-5870-4afb-98f2-eed54a7b4bff")
 	)
 	(gr_line
-		(start 165.42 42.825)
+		(start 164.058 121.225)
+		(end 164.058 137.605)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ad4ed55c-954e-4da1-a77d-c83edc22fd55")
+	)
+	(gr_line
+		(start 164.05725 231.225)
+		(end 164.058 247.605)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ad8a1288-2f86-4061-b3cc-32548619c578")
+	)
+	(gr_line
+		(start 164.62 42.825)
 		(end 154.4982 42.825)
 		(stroke
 			(width 0.05)
@@ -69822,11 +69855,11 @@
 		(uuid "b0a74024-1da6-4a70-bc11-2fcd03dc4f8d")
 	)
 	(gr_line
-		(start 165.42 61.675)
-		(end 160.296 61.675)
+		(start 164.62 61.675)
+		(end 158.496 61.675)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "b1df8f0b-67ff-4e0a-8f76-89a22a3a01f2")
@@ -69842,20 +69875,10 @@
 		(layer "Edge.Cuts")
 		(uuid "b5a5c3e4-c88b-4c18-ad63-a04e2121c0e1")
 	)
-	(gr_line
-		(start 165.058 118.825)
-		(end 170.182 118.825)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "bfb36e6a-7244-450a-b2c7-0c8a0941df72")
-	)
 	(gr_arc
-		(start 170.182 100.175)
-		(mid 171.737635 100.819365)
-		(end 172.382 102.375)
+		(start 168.382 100.175)
+		(mid 169.937635 100.819365)
+		(end 170.582 102.375)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69864,8 +69887,8 @@
 		(uuid "c3439719-5915-427d-8a59-b6b251c692f9")
 	)
 	(gr_line
-		(start 208.77 45.025)
-		(end 208.77 59.675)
+		(start 169.82 45.025)
+		(end 169.82 59.675)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69874,8 +69897,8 @@
 		(uuid "c36908e0-b9f8-4f61-b4f0-80fa6ba708a2")
 	)
 	(gr_line
-		(start 208.77 212.175)
-		(end 208.77 226.825)
+		(start 168.82 212.175)
+		(end 168.82 226.825)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69884,9 +69907,9 @@
 		(uuid "c3e2f2b2-e7d0-45ff-a9b0-e0e9a0fcd390")
 	)
 	(gr_arc
-		(start 199.245 174.075)
-		(mid 199.889365 172.519365)
-		(end 201.445 171.875)
+		(start 159.295 174.075)
+		(mid 159.939365 172.519365)
+		(end 161.495 171.875)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69895,9 +69918,9 @@
 		(uuid "c8eb31d7-5732-41c3-a1af-976cc99b6575")
 	)
 	(gr_arc
-		(start 208.77 59.675)
-		(mid 208.125635 61.230635)
-		(end 206.57 61.875)
+		(start 169.82 59.675)
+		(mid 169.175635 61.230635)
+		(end 167.62 61.875)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69906,9 +69929,9 @@
 		(uuid "ca5babfd-9291-48e7-b76e-5a6ac182d438")
 	)
 	(gr_arc
-		(start 208.77 169.675)
-		(mid 208.125635 171.230635)
-		(end 206.57 171.875)
+		(start 169.82 169.675)
+		(mid 169.175635 171.230635)
+		(end 167.62 171.875)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69917,8 +69940,8 @@
 		(uuid "cb11458a-570b-4fb0-9434-1ff0581c4188")
 	)
 	(gr_line
-		(start 224.2918 38.825)
-		(end 231.3482 38.825)
+		(start 183.3418 38.825)
+		(end 190.3982 38.825)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69927,19 +69950,19 @@
 		(uuid "cbbf3a96-0df8-4696-8e63-d1b91165c324")
 	)
 	(gr_line
-		(start 36.67 138.075)
-		(end 160.658 138.075)
+		(start 36.67 139.805)
+		(end 158.858 139.805)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "cdcdb8f3-d0f9-4ab3-b505-5524b61a896a")
 	)
 	(gr_arc
-		(start 358.97 42.825)
-		(mid 360.525635 43.469365)
-		(end 361.17 45.025)
+		(start 318.02 42.825)
+		(mid 319.575635 43.469365)
+		(end 320.22 45.025)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69948,8 +69971,18 @@
 		(uuid "cf3658c1-a37c-47af-b78f-1cda271da433")
 	)
 	(gr_line
-		(start 199.245 174.075)
-		(end 199.245 188.725)
+		(start 173.583 102.175)
+		(end 173.582 116.825)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d0ac8ee5-f607-415f-9a58-e107d4f967f1")
+	)
+	(gr_line
+		(start 159.295 174.075)
+		(end 159.295 188.725)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69958,9 +69991,9 @@
 		(uuid "d0ba674e-cf9c-4242-813e-2cbc3d7499ec")
 	)
 	(gr_arc
-		(start 211.333 99.975)
-		(mid 212.888635 100.619365)
-		(end 213.533 102.175)
+		(start 171.383 99.975)
+		(mid 172.938635 100.619365)
+		(end 173.583 102.175)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69969,8 +70002,8 @@
 		(uuid "d5e30846-a436-4865-ac1f-f8457aea653e")
 	)
 	(gr_line
-		(start 231.3482 38.825)
-		(end 231.3482 40.625)
+		(start 190.3982 38.825)
+		(end 190.3982 40.625)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69979,8 +70012,8 @@
 		(uuid "d94e18b5-f987-4287-8bd1-12868fc14e60")
 	)
 	(gr_line
-		(start 224.2918 38.825)
-		(end 224.2918 40.625)
+		(start 183.3418 38.825)
+		(end 183.3418 40.625)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -69989,19 +70022,39 @@
 		(uuid "da7c12d9-57e3-4d37-936e-c692ce21efc6")
 	)
 	(gr_line
-		(start 361.17 155.025)
-		(end 361.17 245.875)
+		(start 34.47 45.025)
+		(end 34.47 137.605)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "df2ef419-c871-4848-afe7-0e0ea151a698")
+		(uuid "dc26acf9-156b-4045-aca4-47e42a45a221")
+	)
+	(gr_line
+		(start 320.22 155.025)
+		(end 320.22 247.605)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "dc87b771-e85c-4dbc-a49d-1b9b30c70310")
+	)
+	(gr_line
+		(start 170.582 102.375)
+		(end 170.581 116.625)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "e23ffe1b-9089-4341-9852-a37a4cb96a82")
 	)
 	(gr_arc
-		(start 36.67 138.075)
-		(mid 35.114365 137.430635)
-		(end 34.47 135.875)
+		(start 36.67 139.805)
+		(mid 35.114365 139.160635)
+		(end 34.47 137.605)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -70010,9 +70063,9 @@
 		(uuid "e4fe1a5b-c070-4fd7-a52c-f9b517a6e93f")
 	)
 	(gr_arc
-		(start 208.77 226.825)
-		(mid 208.125635 228.380635)
-		(end 206.57 229.025)
+		(start 168.82 226.825)
+		(mid 168.175635 228.380635)
+		(end 166.62 229.025)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -70021,8 +70074,8 @@
 		(uuid "e6cd69f0-037b-46b9-9543-d60967121273")
 	)
 	(gr_line
-		(start 199.245 64.075)
-		(end 199.245 78.725)
+		(start 159.295 64.075)
+		(end 159.295 78.725)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -70030,29 +70083,30 @@
 		(layer "Edge.Cuts")
 		(uuid "eb8f7eff-4ffc-46a4-8ac5-03f9d505f816")
 	)
-	(gr_line
-		(start 162.858 135.875)
-		(end 162.858 121.025)
+	(gr_arc
+		(start 170.581 116.625)
+		(mid 169.936635 118.180635)
+		(end 168.381 118.825)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "ef08e016-907c-4afc-bc6a-e39e7e083bb1")
+		(uuid "f4c9e76e-bcdd-44aa-8570-4d8f93051314")
 	)
 	(gr_line
-		(start 358.97 248.075)
-		(end 206.208 248.075)
+		(start 318.02 249.805)
+		(end 166.258 249.805)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "f6a392a2-4d23-45a2-9829-9671778985c5")
 	)
 	(gr_line
-		(start 201.445 190.925)
-		(end 201.808 190.925)
+		(start 161.495 190.925)
+		(end 161.858 190.925)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -70060,20 +70114,10 @@
 		(layer "Edge.Cuts")
 		(uuid "f7f9b7c7-19ba-4795-9d2d-8436b4522f2d")
 	)
-	(gr_line
-		(start 34.47 45.025)
-		(end 34.47 135.875)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "fc2222c0-0f1f-48b4-a062-8861404850a3")
-	)
 	(gr_arc
-		(start 204.00725 231.225)
-		(mid 204.651615 229.669365)
-		(end 206.20725 229.025)
+		(start 164.05725 231.225)
+		(mid 164.701615 229.669365)
+		(end 166.25725 229.025)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -70082,8 +70126,8 @@
 		(uuid "fd239669-68ac-4416-a415-aaee5e63186f")
 	)
 	(gr_line
-		(start 162.858 83.325)
-		(end 162.857 97.975)
+		(start 161.058 83.325)
+		(end 161.057 97.975)
 		(stroke
 			(width 0.05)
 			(type default)
